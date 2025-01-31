@@ -1,1 +1,7 @@
 .venv/
+scripts/.env
+scripts/photos/
+*.mp4
+*.csv
+*.session*
+*.json
