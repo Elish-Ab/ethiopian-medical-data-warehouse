@@ -14,6 +14,7 @@ logging.basicConfig(
 
 # Load environment variables once
 load_dotenv('.env')
+
 api_id = os.getenv('API_ID')
 api_hash = os.getenv('API_HASH')
 phone = os.getenv('phone')
