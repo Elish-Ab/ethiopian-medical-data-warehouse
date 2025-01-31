@@ -1,0 +1,1148 @@
+2025-01-31 23:01:29,742 - ERROR - ❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/DoctorsET_data.csv'
+2025-01-31 23:02:12,440 - ERROR - ❌ Error loading CSV file: [Errno 2] No such file or directory: './DoctorsET_data.csv'
+2025-01-31 23:02:52,174 - INFO - ✅ CSV file '../scripts/DoctorsET_data.csv' loaded successfully.
+2025-01-31 23:02:52,183 - INFO - ✅ CSV file '../scripts/EAHCI_data.csv' loaded successfully.
+2025-01-31 23:02:52,190 - INFO - ✅ CSV file '../scripts/lobelia4cosmetics_data.csv' loaded successfully.
+2025-01-31 23:02:52,196 - INFO - ✅ CSV file '../scripts/yetenaweg_data.csv' loaded successfully.
+2025-01-31 23:02:52,204 - INFO - ✅ CSV file '../scripts/CheMed123_data.csv' loaded successfully.
+2025-01-31 23:03:13,339 - INFO - ✅ CSV file '../scripts/DoctorsET_data.csv' loaded successfully.
+2025-01-31 23:03:13,347 - INFO - ✅ CSV file '../scripts/EAHCI_data.csv' loaded successfully.
+2025-01-31 23:03:13,353 - INFO - ✅ CSV file '../scripts/lobelia4cosmetics_data.csv' loaded successfully.
+2025-01-31 23:03:13,359 - INFO - ✅ CSV file '../scripts/yetenaweg_data.csv' loaded successfully.
+2025-01-31 23:03:13,364 - INFO - ✅ CSV file '../scripts/CheMed123_data.csv' loaded successfully.
+2025-01-31 23:03:39,614 - INFO - ✅ CSV file '../scripts/DoctorsET_data.csv' loaded successfully.
+2025-01-31 23:03:39,642 - INFO - ✅ CSV file '../scripts/EAHCI_data.csv' loaded successfully.
+2025-01-31 23:03:39,658 - INFO - ✅ CSV file '../scripts/lobelia4cosmetics_data.csv' loaded successfully.
+2025-01-31 23:03:39,685 - INFO - ✅ CSV file '../scripts/yetenaweg_data.csv' loaded successfully.
+2025-01-31 23:03:39,709 - INFO - ✅ CSV file '../scripts/CheMed123_data.csv' loaded successfully.
+2025-01-31 23:03:49,584 - INFO - ✅ Duplicates removed from dataset.
+2025-01-31 23:03:49,638 - INFO - ✅ Date column formatted to datetime.
+2025-01-31 23:03:49,652 - INFO - ✅ Missing values filled.
+2025-01-31 23:03:49,699 - INFO - ✅ Text columns standardized.
+2025-01-31 23:03:49,749 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-01-31 23:03:49,780 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-01-31 23:03:49,784 - INFO - ✅ Data cleaning completed successfully.
+2025-01-31 23:04:05,159 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 00:05:45,382 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 20:07:07,795 - ERROR - ❌ Error loading CSV file: [Errno 2] No such file or directory: '../data/DoctorsET_data.csv'
+2025-02-01 21:30:56,864 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:30:56,889 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:30:56,897 - INFO - ✅ Missing values filled.
+2025-02-01 21:30:56,918 - INFO - ✅ Text columns standardized.
+2025-02-01 21:30:56,943 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:30:56,963 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:30:56,966 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:30:57,649 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:30:58,333 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:32:09,201 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:37:23,356 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:37:23,439 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:37:23,443 - INFO - ✅ Missing values filled.
+2025-02-01 21:37:23,449 - INFO - ✅ Text columns standardized.
+2025-02-01 21:37:23,463 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:37:23,478 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:37:23,481 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:37:23,576 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:37:23,595 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:37:27,350 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:39:35,610 - ERROR - ❌ Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:39:50,208 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:39:50,223 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:39:50,228 - INFO - ✅ Missing values filled.
+2025-02-01 21:39:50,239 - INFO - ✅ Text columns standardized.
+2025-02-01 21:39:50,254 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:39:50,279 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:39:50,282 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:39:50,409 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:39:50,437 - ERROR - Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:41:25,119 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:41:25,128 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:41:25,131 - INFO - ✅ Missing values filled.
+2025-02-01 21:41:25,140 - INFO - ✅ Text columns standardized.
+2025-02-01 21:41:25,155 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:41:25,174 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:41:25,177 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:41:25,268 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:41:25,281 - ERROR - Database connection failed: invalid literal for int() with base 10: 'None'
+2025-02-01 21:42:55,050 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:42:55,060 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:42:55,062 - INFO - ✅ Missing values filled.
+2025-02-01 21:42:55,070 - INFO - ✅ Text columns standardized.
+2025-02-01 21:42:55,081 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:42:55,100 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:42:55,102 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:42:55,204 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:44:18,705 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:44:18,716 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:44:18,719 - INFO - ✅ Missing values filled.
+2025-02-01 21:44:18,736 - INFO - ✅ Text columns standardized.
+2025-02-01 21:44:18,762 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:44:18,788 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:44:18,793 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:44:18,905 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:44:55,037 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:44:55,055 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:44:55,061 - INFO - ✅ Missing values filled.
+2025-02-01 21:44:55,083 - INFO - ✅ Text columns standardized.
+2025-02-01 21:44:55,111 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:44:55,142 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:44:55,145 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:44:55,230 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:46:34,928 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:46:34,936 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:46:34,940 - INFO - ✅ Missing values filled.
+2025-02-01 21:46:34,949 - INFO - ✅ Text columns standardized.
+2025-02-01 21:46:34,959 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:46:34,977 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:46:34,981 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:46:35,070 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:47:48,211 - INFO - DB_HOST: None
+2025-02-01 21:47:48,211 - INFO - DB_NAME: None
+2025-02-01 21:47:48,212 - INFO - DB_USER: None
+2025-02-01 21:47:48,213 - INFO - DB_PASSWORD: None
+2025-02-01 21:47:48,214 - INFO - DB_PORT: None
+2025-02-01 21:47:48,287 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:47:48,301 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:47:48,304 - INFO - ✅ Missing values filled.
+2025-02-01 21:47:48,311 - INFO - ✅ Text columns standardized.
+2025-02-01 21:47:48,323 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:47:48,341 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:47:48,344 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:47:48,434 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:49:40,463 - INFO - DB_HOST: None
+2025-02-01 21:49:40,464 - INFO - DB_NAME: None
+2025-02-01 21:49:40,464 - INFO - DB_USER: None
+2025-02-01 21:49:40,465 - INFO - DB_PASSWORD: None
+2025-02-01 21:49:40,465 - INFO - DB_PORT: None
+2025-02-01 21:49:40,511 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:49:40,522 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:49:40,524 - INFO - ✅ Missing values filled.
+2025-02-01 21:49:40,533 - INFO - ✅ Text columns standardized.
+2025-02-01 21:49:40,547 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:49:40,566 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:49:40,570 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:49:40,674 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:52:17,692 - INFO - DB_HOST: None
+2025-02-01 21:52:17,693 - INFO - DB_NAME: None
+2025-02-01 21:52:17,694 - INFO - DB_USER: None
+2025-02-01 21:52:17,695 - INFO - DB_PASSWORD: None
+2025-02-01 21:52:17,696 - INFO - DB_PORT: None
+2025-02-01 21:52:17,748 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:52:17,758 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:52:17,762 - INFO - ✅ Missing values filled.
+2025-02-01 21:52:17,774 - INFO - ✅ Text columns standardized.
+2025-02-01 21:52:17,789 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:52:17,818 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:52:17,821 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:52:17,953 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:53:27,024 - INFO - DB_HOST: None
+2025-02-01 21:53:27,024 - INFO - DB_NAME: None
+2025-02-01 21:53:27,025 - INFO - DB_USER: None
+2025-02-01 21:53:27,026 - INFO - DB_PASSWORD: None
+2025-02-01 21:53:27,027 - INFO - DB_PORT: None
+2025-02-01 21:53:27,075 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:53:27,100 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:53:27,105 - INFO - ✅ Missing values filled.
+2025-02-01 21:53:27,116 - INFO - ✅ Text columns standardized.
+2025-02-01 21:53:27,130 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:53:27,156 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:53:27,162 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:53:27,259 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:55:18,623 - INFO - DB_HOST: None
+2025-02-01 21:55:18,624 - INFO - DB_NAME: None
+2025-02-01 21:55:18,624 - INFO - DB_USER: None
+2025-02-01 21:55:18,625 - INFO - DB_PASSWORD: None
+2025-02-01 21:55:18,626 - INFO - DB_PORT: None
+2025-02-01 21:55:18,672 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:55:18,681 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:55:18,684 - INFO - ✅ Missing values filled.
+2025-02-01 21:55:18,693 - INFO - ✅ Text columns standardized.
+2025-02-01 21:55:18,706 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:55:18,760 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:55:18,767 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:55:18,876 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 21:56:40,611 - INFO - DB_HOST: None
+2025-02-01 21:56:40,612 - INFO - DB_NAME: None
+2025-02-01 21:56:40,613 - INFO - DB_USER: None
+2025-02-01 21:56:40,613 - INFO - DB_PASSWORD: None
+2025-02-01 21:56:40,614 - INFO - DB_PORT: None
+2025-02-01 21:56:40,666 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 21:56:40,677 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 21:56:40,683 - INFO - ✅ Missing values filled.
+2025-02-01 21:56:40,692 - INFO - ✅ Text columns standardized.
+2025-02-01 21:56:40,711 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 21:56:40,732 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 21:56:40,738 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 21:56:40,869 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 22:02:35,963 - INFO - ✅ Duplicates removed from dataset.
+2025-02-01 22:02:35,974 - INFO - ✅ Date column formatted to datetime.
+2025-02-01 22:02:35,978 - INFO - ✅ Missing values filled.
+2025-02-01 22:02:35,987 - INFO - ✅ Text columns standardized.
+2025-02-01 22:02:35,997 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-01 22:02:36,019 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-01 22:02:36,021 - INFO - ✅ Data cleaning completed successfully.
+2025-02-01 22:02:36,096 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-01 22:02:36,298 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-02-01 22:02:36,421 - INFO - Inserting: 864 - 2023-12-18 17:04:02+00:00
+2025-02-01 22:02:36,425 - INFO - Inserting: 863 - 2023-11-03 16:14:39+00:00
+2025-02-01 22:02:36,434 - INFO - Inserting: 862 - 2023-10-02 16:37:39+00:00
+2025-02-01 22:02:36,437 - INFO - Inserting: 861 - 2023-09-16 07:54:32+00:00
+2025-02-01 22:02:36,439 - INFO - Inserting: 860 - 2023-09-01 16:16:15+00:00
+2025-02-01 22:02:36,442 - INFO - Inserting: 859 - 2023-08-29 17:20:05+00:00
+2025-02-01 22:02:36,444 - INFO - Inserting: 848 - 2022-08-02 17:42:08+00:00
+2025-02-01 22:02:36,447 - INFO - Inserting: 847 - 2022-06-12 17:15:47+00:00
+2025-02-01 22:02:36,449 - INFO - Inserting: 846 - 2022-05-31 17:51:13+00:00
+2025-02-01 22:02:36,452 - INFO - Inserting: 845 - 2022-05-20 18:04:53+00:00
+2025-02-01 22:02:36,455 - INFO - Inserting: 844 - 2022-05-15 15:59:10+00:00
+2025-02-01 22:02:36,457 - INFO - Inserting: 843 - 2022-05-07 18:22:14+00:00
+2025-02-01 22:02:36,459 - INFO - Inserting: 842 - 2022-05-06 17:51:05+00:00
+2025-02-01 22:02:36,462 - INFO - Inserting: 841 - 2022-05-06 17:51:05+00:00
+2025-02-01 22:02:36,464 - INFO - Inserting: 840 - 2022-05-06 17:51:05+00:00
+2025-02-01 22:02:36,467 - INFO - Inserting: 839 - 2022-05-06 17:51:05+00:00
+2025-02-01 22:02:36,469 - INFO - Inserting: 836 - 2022-05-01 11:13:33+00:00
+2025-02-01 22:02:36,471 - INFO - Inserting: 835 - 2022-04-29 18:59:05+00:00
+2025-02-01 22:02:36,474 - INFO - Inserting: 834 - 2022-04-29 18:57:35+00:00
+2025-02-01 22:02:36,477 - INFO - Inserting: 833 - 2022-04-28 05:46:38+00:00
+2025-02-01 22:02:36,481 - INFO - Inserting: 832 - 2022-04-28 05:46:38+00:00
+2025-02-01 22:02:36,485 - INFO - Inserting: 831 - 2022-04-28 05:46:38+00:00
+2025-02-01 22:02:36,489 - INFO - Inserting: 830 - 2022-04-28 05:46:38+00:00
+2025-02-01 22:02:36,493 - INFO - Inserting: 829 - 2022-04-24 17:11:09+00:00
+2025-02-01 22:02:36,495 - INFO - Inserting: 828 - 2022-04-22 18:55:31+00:00
+2025-02-01 22:02:36,498 - INFO - Inserting: 827 - 2022-04-22 17:51:05+00:00
+2025-02-01 22:02:36,504 - INFO - Inserting: 826 - 2022-04-22 17:51:05+00:00
+2025-02-01 22:02:36,507 - INFO - Inserting: 825 - 2022-04-22 17:51:04+00:00
+2025-02-01 22:02:36,510 - INFO - Inserting: 824 - 2022-04-22 17:51:04+00:00
+2025-02-01 22:02:36,512 - INFO - Inserting: 823 - 2022-04-22 17:51:04+00:00
+2025-02-01 22:02:36,515 - INFO - Inserting: 822 - 2022-04-22 17:51:04+00:00
+2025-02-01 22:02:36,517 - INFO - Inserting: 821 - 2022-04-19 17:38:05+00:00
+2025-02-01 22:02:36,521 - INFO - Inserting: 820 - 2022-04-15 18:06:19+00:00
+2025-02-01 22:02:36,525 - INFO - Inserting: 819 - 2022-04-15 18:06:19+00:00
+2025-02-01 22:02:36,530 - INFO - Inserting: 818 - 2022-04-15 18:06:19+00:00
+2025-02-01 22:02:36,532 - INFO - Inserting: 817 - 2022-04-14 04:14:11+00:00
+2025-02-01 22:02:36,536 - INFO - Inserting: 815 - 2022-04-12 18:01:18+00:00
+2025-02-01 22:02:36,541 - INFO - Inserting: 814 - 2022-04-08 17:07:21+00:00
+2025-02-01 22:02:36,546 - INFO - Inserting: 813 - 2022-04-08 17:07:21+00:00
+2025-02-01 22:02:36,551 - INFO - Inserting: 812 - 2022-04-08 17:07:21+00:00
+2025-02-01 22:02:36,557 - INFO - Inserting: 811 - 2022-04-08 17:07:21+00:00
+2025-02-01 22:02:36,559 - INFO - Inserting: 810 - 2022-04-07 04:24:11+00:00
+2025-02-01 22:02:36,561 - INFO - Inserting: 809 - 2022-04-07 04:24:11+00:00
+2025-02-01 22:02:36,564 - INFO - Inserting: 808 - 2022-04-07 04:24:11+00:00
+2025-02-01 22:02:36,567 - INFO - Inserting: 807 - 2022-04-07 04:24:11+00:00
+2025-02-01 22:02:36,569 - INFO - Inserting: 805 - 2022-04-03 16:15:29+00:00
+2025-02-01 22:02:36,571 - INFO - Inserting: 804 - 2022-04-02 06:06:36+00:00
+2025-02-01 22:02:36,582 - INFO - Inserting: 802 - 2022-04-01 17:02:54+00:00
+2025-02-01 22:02:36,586 - INFO - Inserting: 801 - 2022-04-01 17:02:54+00:00
+2025-02-01 22:02:36,588 - INFO - Inserting: 800 - 2022-04-01 17:02:54+00:00
+2025-02-01 22:02:36,590 - INFO - Inserting: 799 - 2022-04-01 17:02:54+00:00
+2025-02-01 22:02:36,596 - INFO - Inserting: 798 - 2022-04-01 17:02:54+00:00
+2025-02-01 22:02:36,607 - INFO - Inserting: 797 - 2022-03-26 17:46:39+00:00
+2025-02-01 22:02:36,612 - INFO - Inserting: 796 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,623 - INFO - Inserting: 795 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,634 - INFO - Inserting: 794 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,638 - INFO - Inserting: 793 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,643 - INFO - Inserting: 792 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,645 - INFO - Inserting: 791 - 2022-03-25 17:21:06+00:00
+2025-02-01 22:02:36,648 - INFO - Inserting: 790 - 2022-03-19 16:57:52+00:00
+2025-02-01 22:02:36,652 - INFO - Inserting: 789 - 2022-03-18 18:39:57+00:00
+2025-02-01 22:02:36,654 - INFO - Inserting: 788 - 2022-03-18 18:39:57+00:00
+2025-02-01 22:02:36,657 - INFO - Inserting: 787 - 2022-03-18 17:53:09+00:00
+2025-02-01 22:02:36,662 - INFO - Inserting: 786 - 2022-03-18 17:53:09+00:00
+2025-02-01 22:02:36,667 - INFO - Inserting: 785 - 2022-03-18 17:53:09+00:00
+2025-02-01 22:02:36,670 - INFO - Inserting: 784 - 2022-03-18 17:53:09+00:00
+2025-02-01 22:02:36,673 - INFO - Inserting: 783 - 2022-03-18 17:53:08+00:00
+2025-02-01 22:02:36,677 - INFO - Inserting: 782 - 2022-03-15 17:57:48+00:00
+2025-02-01 22:02:36,681 - INFO - Inserting: 781 - 2022-03-14 16:42:04+00:00
+2025-02-01 22:02:36,686 - INFO - Inserting: 780 - 2022-03-09 17:35:30+00:00
+2025-02-01 22:02:36,689 - INFO - Inserting: 779 - 2022-03-06 17:25:38+00:00
+2025-02-01 22:02:36,693 - INFO - Inserting: 778 - 2022-03-04 18:27:46+00:00
+2025-02-01 22:02:36,695 - INFO - Inserting: 777 - 2022-03-04 18:27:46+00:00
+2025-02-01 22:02:36,697 - INFO - Inserting: 776 - 2022-03-04 18:27:46+00:00
+2025-02-01 22:02:36,700 - INFO - Inserting: 775 - 2022-03-02 17:50:31+00:00
+2025-02-01 22:02:36,704 - INFO - Inserting: 774 - 2022-02-25 18:57:34+00:00
+2025-02-01 22:02:36,706 - INFO - Inserting: 773 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,708 - INFO - Inserting: 772 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,713 - INFO - Inserting: 771 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,715 - INFO - Inserting: 770 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,718 - INFO - Inserting: 769 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,720 - INFO - Inserting: 768 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,726 - INFO - Inserting: 767 - 2022-02-25 17:46:07+00:00
+2025-02-01 22:02:36,728 - INFO - Inserting: 766 - 2022-02-25 17:46:06+00:00
+2025-02-01 22:02:36,729 - INFO - Inserting: 765 - 2022-02-24 17:09:10+00:00
+2025-02-01 22:02:36,731 - INFO - Inserting: 764 - 2022-02-18 16:56:56+00:00
+2025-02-01 22:02:36,733 - INFO - Inserting: 763 - 2022-02-18 16:56:56+00:00
+2025-02-01 22:02:36,735 - INFO - Inserting: 762 - 2022-02-18 16:56:56+00:00
+2025-02-01 22:02:36,737 - INFO - Inserting: 761 - 2022-02-18 16:56:56+00:00
+2025-02-01 22:02:36,739 - INFO - Inserting: 760 - 2022-02-18 16:56:55+00:00
+2025-02-01 22:02:36,741 - INFO - Inserting: 759 - 2022-02-18 16:56:55+00:00
+2025-02-01 22:02:36,743 - INFO - Inserting: 758 - 2022-02-17 17:29:28+00:00
+2025-02-01 22:02:36,746 - INFO - Inserting: 757 - 2022-02-11 18:39:23+00:00
+2025-02-01 22:02:36,748 - INFO - Inserting: 756 - 2022-02-11 17:23:23+00:00
+2025-02-01 22:02:36,750 - INFO - Inserting: 755 - 2022-02-11 17:23:23+00:00
+2025-02-01 22:02:36,752 - INFO - Inserting: 754 - 2022-02-11 17:23:23+00:00
+2025-02-01 22:02:36,754 - INFO - Inserting: 753 - 2022-02-11 17:23:23+00:00
+2025-02-01 22:02:36,756 - INFO - Inserting: 752 - 2022-02-08 18:21:30+00:00
+2025-02-01 22:02:36,757 - INFO - Inserting: 751 - 2022-02-08 18:20:57+00:00
+2025-02-01 22:02:36,759 - INFO - Inserting: 750 - 2022-02-05 04:59:06+00:00
+2025-02-01 22:02:36,761 - INFO - Inserting: 97 - 2023-02-10 12:23:06+00:00
+2025-02-01 22:02:36,763 - INFO - Inserting: 96 - 2023-02-02 08:58:52+00:00
+2025-02-01 22:02:36,766 - INFO - Inserting: 95 - 2023-02-01 08:59:37+00:00
+2025-02-01 22:02:36,769 - INFO - Inserting: 94 - 2023-01-31 09:19:53+00:00
+2025-02-01 22:02:36,772 - INFO - Inserting: 93 - 2023-01-30 09:45:25+00:00
+2025-02-01 22:02:36,773 - INFO - Inserting: 92 - 2023-01-27 07:18:40+00:00
+2025-02-01 22:02:36,775 - INFO - Inserting: 91 - 2023-01-26 18:27:53+00:00
+2025-02-01 22:02:36,776 - INFO - Inserting: 90 - 2023-01-23 10:39:20+00:00
+2025-02-01 22:02:36,778 - INFO - Inserting: 89 - 2023-01-17 19:10:57+00:00
+2025-02-01 22:02:36,780 - INFO - Inserting: 88 - 2023-01-17 08:43:12+00:00
+2025-02-01 22:02:36,782 - INFO - Inserting: 87 - 2023-01-16 13:41:35+00:00
+2025-02-01 22:02:36,785 - INFO - Inserting: 86 - 2023-01-16 10:13:42+00:00
+2025-02-01 22:02:36,788 - INFO - Inserting: 85 - 2023-01-16 09:26:09+00:00
+2025-02-01 22:02:36,792 - INFO - Inserting: 82 - 2023-01-13 12:48:47+00:00
+2025-02-01 22:02:36,794 - INFO - Inserting: 81 - 2023-01-13 09:44:14+00:00
+2025-02-01 22:02:36,796 - INFO - Inserting: 80 - 2023-01-06 16:06:21+00:00
+2025-02-01 22:02:36,797 - INFO - Inserting: 79 - 2023-01-06 09:31:17+00:00
+2025-02-01 22:02:36,799 - INFO - Inserting: 78 - 2023-01-06 06:05:01+00:00
+2025-02-01 22:02:36,803 - INFO - Inserting: 77 - 2023-01-04 05:58:02+00:00
+2025-02-01 22:02:36,806 - INFO - Inserting: 76 - 2023-01-03 17:49:48+00:00
+2025-02-01 22:02:36,808 - INFO - Inserting: 75 - 2023-01-03 05:48:34+00:00
+2025-02-01 22:02:36,809 - INFO - Inserting: 74 - 2023-01-02 07:02:55+00:00
+2025-02-01 22:02:36,811 - INFO - Inserting: 73 - 2023-01-02 06:58:48+00:00
+2025-02-01 22:02:36,812 - INFO - Inserting: 71 - 2022-12-30 15:45:35+00:00
+2025-02-01 22:02:36,815 - INFO - Inserting: 70 - 2022-12-28 17:02:08+00:00
+2025-02-01 22:02:36,820 - INFO - Inserting: 67 - 2022-12-28 06:31:50+00:00
+2025-02-01 22:02:36,822 - INFO - Inserting: 64 - 2022-12-27 17:06:32+00:00
+2025-02-01 22:02:36,824 - INFO - Inserting: 62 - 2022-12-25 15:46:05+00:00
+2025-02-01 22:02:36,826 - INFO - Inserting: 60 - 2022-12-23 06:26:15+00:00
+2025-02-01 22:02:36,827 - INFO - Inserting: 59 - 2022-12-22 06:40:25+00:00
+2025-02-01 22:02:36,829 - INFO - Inserting: 58 - 2022-12-22 03:11:26+00:00
+2025-02-01 22:02:36,830 - INFO - Inserting: 57 - 2022-12-21 15:13:27+00:00
+2025-02-01 22:02:36,832 - INFO - Inserting: 56 - 2022-12-20 17:25:05+00:00
+2025-02-01 22:02:36,833 - INFO - Inserting: 55 - 2022-12-20 11:28:59+00:00
+2025-02-01 22:02:36,837 - INFO - Inserting: 53 - 2022-12-20 07:41:33+00:00
+2025-02-01 22:02:36,839 - INFO - Inserting: 52 - 2022-12-16 12:21:01+00:00
+2025-02-01 22:02:36,841 - INFO - Inserting: 51 - 2022-12-15 06:16:41+00:00
+2025-02-01 22:02:36,842 - INFO - Inserting: 50 - 2022-12-13 05:55:18+00:00
+2025-02-01 22:02:36,844 - INFO - Inserting: 49 - 2022-12-09 12:28:53+00:00
+2025-02-01 22:02:36,845 - INFO - Inserting: 48 - 2022-12-09 04:09:49+00:00
+2025-02-01 22:02:36,847 - INFO - Inserting: 46 - 2022-12-07 06:43:48+00:00
+2025-02-01 22:02:36,849 - INFO - Inserting: 45 - 2022-12-05 05:57:22+00:00
+2025-02-01 22:02:36,854 - INFO - Inserting: 44 - 2022-12-04 12:35:18+00:00
+2025-02-01 22:02:36,856 - INFO - Inserting: 43 - 2022-12-02 13:44:41+00:00
+2025-02-01 22:02:36,858 - INFO - Inserting: 41 - 2022-12-02 06:06:12+00:00
+2025-02-01 22:02:36,860 - INFO - Inserting: 40 - 2022-12-01 06:47:22+00:00
+2025-02-01 22:02:36,861 - INFO - Inserting: 39 - 2022-11-30 06:31:44+00:00
+2025-02-01 22:02:36,863 - INFO - Inserting: 38 - 2022-11-29 07:43:06+00:00
+2025-02-01 22:02:36,864 - INFO - Inserting: 34 - 2022-11-22 08:15:47+00:00
+2025-02-01 22:02:36,866 - INFO - Inserting: 33 - 2022-11-15 11:51:16+00:00
+2025-02-01 22:02:36,868 - INFO - Inserting: 32 - 2022-11-15 08:17:41+00:00
+2025-02-01 22:02:36,871 - INFO - Inserting: 31 - 2022-11-15 05:24:41+00:00
+2025-02-01 22:02:36,873 - INFO - Inserting: 30 - 2022-11-09 08:53:25+00:00
+2025-02-01 22:02:36,875 - INFO - Inserting: 29 - 2022-10-29 20:26:28+00:00
+2025-02-01 22:02:36,876 - INFO - Inserting: 27 - 2022-10-28 09:15:09+00:00
+2025-02-01 22:02:36,878 - INFO - Inserting: 26 - 2022-10-28 06:49:36+00:00
+2025-02-01 22:02:36,881 - INFO - Inserting: 25 - 2022-10-24 09:34:19+00:00
+2025-02-01 22:02:36,883 - INFO - Inserting: 23 - 2022-10-20 12:24:01+00:00
+2025-02-01 22:02:36,885 - INFO - Inserting: 22 - 2022-10-18 07:57:36+00:00
+2025-02-01 22:02:36,887 - INFO - Inserting: 21 - 2022-10-17 14:02:40+00:00
+2025-02-01 22:02:36,888 - INFO - Inserting: 20 - 2022-10-12 14:14:52+00:00
+2025-02-01 22:02:36,890 - INFO - Inserting: 19 - 2022-10-12 14:14:19+00:00
+2025-02-01 22:02:36,891 - INFO - Inserting: 18 - 2022-10-06 09:23:46+00:00
+2025-02-01 22:02:36,892 - INFO - Inserting: 17 - 2022-10-03 05:16:30+00:00
+2025-02-01 22:02:36,894 - INFO - Inserting: 15 - 2022-09-30 07:33:42+00:00
+2025-02-01 22:02:36,896 - INFO - Inserting: 14 - 2022-09-28 05:45:31+00:00
+2025-02-01 22:02:36,898 - INFO - Inserting: 13 - 2022-09-16 07:42:31+00:00
+2025-02-01 22:02:36,899 - INFO - Inserting: 11 - 2022-09-10 15:55:25+00:00
+2025-02-01 22:02:36,901 - INFO - Inserting: 10 - 2022-09-07 09:16:40+00:00
+2025-02-01 22:02:36,904 - INFO - Inserting: 9 - 2022-09-06 04:26:15+00:00
+2025-02-01 22:02:36,906 - INFO - Inserting: 7 - 2022-09-06 04:25:26+00:00
+2025-02-01 22:02:36,908 - INFO - Inserting: 6 - 2022-09-05 10:02:48+00:00
+2025-02-01 22:02:36,910 - INFO - Inserting: 4 - 2022-09-05 10:02:24+00:00
+2025-02-01 22:02:36,912 - INFO - Inserting: 3 - 2022-09-05 10:02:05+00:00
+2025-02-01 22:02:36,914 - INFO - Inserting: 2 - 2022-09-05 09:57:09+00:00
+2025-02-01 22:02:36,916 - INFO - Inserting: 1 - 2022-09-05 08:35:59+00:00
+2025-02-01 22:02:36,918 - INFO - Inserting: 15241 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,920 - INFO - Inserting: 15240 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,923 - INFO - Inserting: 15239 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,925 - INFO - Inserting: 15238 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,927 - INFO - Inserting: 15237 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,929 - INFO - Inserting: 15236 - 2025-02-01 12:21:27+00:00
+2025-02-01 22:02:36,932 - INFO - Inserting: 15235 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,934 - INFO - Inserting: 15234 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,938 - INFO - Inserting: 15233 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,940 - INFO - Inserting: 15232 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,943 - INFO - Inserting: 15231 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,945 - INFO - Inserting: 15230 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,946 - INFO - Inserting: 15229 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,948 - INFO - Inserting: 15228 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,951 - INFO - Inserting: 15227 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,954 - INFO - Inserting: 15226 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,956 - INFO - Inserting: 15225 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,957 - INFO - Inserting: 15224 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,959 - INFO - Inserting: 15223 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,961 - INFO - Inserting: 15222 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,963 - INFO - Inserting: 15221 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,965 - INFO - Inserting: 15220 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,967 - INFO - Inserting: 15219 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,969 - INFO - Inserting: 15218 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,972 - INFO - Inserting: 15217 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,975 - INFO - Inserting: 15216 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,977 - INFO - Inserting: 15215 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,979 - INFO - Inserting: 15214 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,982 - INFO - Inserting: 15213 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,984 - INFO - Inserting: 15212 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,985 - INFO - Inserting: 15211 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,988 - INFO - Inserting: 15210 - 2025-02-01 06:06:33+00:00
+2025-02-01 22:02:36,990 - INFO - Inserting: 15209 - 2025-02-01 06:06:32+00:00
+2025-02-01 22:02:36,992 - INFO - Inserting: 15208 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:36,994 - INFO - Inserting: 15207 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:36,996 - INFO - Inserting: 15206 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:36,998 - INFO - Inserting: 15205 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:37,000 - INFO - Inserting: 15204 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:37,002 - INFO - Inserting: 15203 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:37,004 - INFO - Inserting: 15202 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:37,006 - INFO - Inserting: 15201 - 2025-01-31 12:40:44+00:00
+2025-02-01 22:02:37,008 - INFO - Inserting: 15200 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,010 - INFO - Inserting: 15199 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,012 - INFO - Inserting: 15198 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,014 - INFO - Inserting: 15197 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,017 - INFO - Inserting: 15196 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,019 - INFO - Inserting: 15195 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,023 - INFO - Inserting: 15194 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,025 - INFO - Inserting: 15193 - 2025-01-31 05:30:28+00:00
+2025-02-01 22:02:37,027 - INFO - Inserting: 15192 - 2025-01-30 14:11:12+00:00
+2025-02-01 22:02:37,029 - INFO - Inserting: 15191 - 2025-01-30 14:11:11+00:00
+2025-02-01 22:02:37,037 - INFO - Inserting: 15190 - 2025-01-30 14:11:11+00:00
+2025-02-01 22:02:37,039 - INFO - Inserting: 15189 - 2025-01-30 14:11:11+00:00
+2025-02-01 22:02:37,043 - INFO - Inserting: 15188 - 2025-01-30 13:04:17+00:00
+2025-02-01 22:02:37,051 - INFO - Inserting: 15187 - 2025-01-30 13:04:01+00:00
+2025-02-01 22:02:37,058 - INFO - Inserting: 15186 - 2025-01-30 09:07:32+00:00
+2025-02-01 22:02:37,060 - INFO - Inserting: 15185 - 2025-01-30 09:07:32+00:00
+2025-02-01 22:02:37,064 - INFO - Inserting: 15184 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,070 - INFO - Inserting: 15183 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,071 - INFO - Inserting: 15182 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,079 - INFO - Inserting: 15181 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,082 - INFO - Inserting: 15180 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,092 - INFO - Inserting: 15179 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,097 - INFO - Inserting: 15178 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,099 - INFO - Inserting: 15177 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,106 - INFO - Inserting: 15176 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,110 - INFO - Inserting: 15175 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,114 - INFO - Inserting: 15174 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,117 - INFO - Inserting: 15173 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,126 - INFO - Inserting: 15172 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,130 - INFO - Inserting: 15171 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,134 - INFO - Inserting: 15170 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,138 - INFO - Inserting: 15169 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,141 - INFO - Inserting: 15168 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,145 - INFO - Inserting: 15167 - 2025-01-30 06:32:30+00:00
+2025-02-01 22:02:37,147 - INFO - Inserting: 15166 - 2025-01-30 06:32:29+00:00
+2025-02-01 22:02:37,149 - INFO - Inserting: 15165 - 2025-01-30 06:32:29+00:00
+2025-02-01 22:02:37,155 - INFO - Inserting: 15164 - 2025-01-30 06:32:29+00:00
+2025-02-01 22:02:37,159 - INFO - Inserting: 15163 - 2025-01-30 06:32:29+00:00
+2025-02-01 22:02:37,165 - INFO - Inserting: 15162 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,170 - INFO - Inserting: 15161 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,176 - INFO - Inserting: 15160 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,178 - INFO - Inserting: 15159 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,183 - INFO - Inserting: 15158 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,186 - INFO - Inserting: 15157 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,189 - INFO - Inserting: 15156 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,192 - INFO - Inserting: 15155 - 2025-01-29 13:01:26+00:00
+2025-02-01 22:02:37,195 - INFO - Inserting: 15154 - 2025-01-29 12:59:56+00:00
+2025-02-01 22:02:37,198 - INFO - Inserting: 15153 - 2025-01-29 05:03:04+00:00
+2025-02-01 22:02:37,204 - INFO - Inserting: 15152 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,208 - INFO - Inserting: 15151 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,211 - INFO - Inserting: 15150 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,213 - INFO - Inserting: 15149 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,220 - INFO - Inserting: 15148 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,224 - INFO - Inserting: 15147 - 2025-01-29 05:03:03+00:00
+2025-02-01 22:02:37,226 - INFO - Inserting: 15146 - 2025-01-29 05:02:10+00:00
+2025-02-01 22:02:37,228 - INFO - Inserting: 15145 - 2025-01-28 14:36:31+00:00
+2025-02-01 22:02:37,230 - INFO - Inserting: 15144 - 2025-01-28 14:36:31+00:00
+2025-02-01 22:02:37,233 - INFO - Inserting: 15143 - 2025-01-28 14:36:31+00:00
+2025-02-01 22:02:37,238 - INFO - Inserting: 15142 - 2025-01-28 14:36:31+00:00
+2025-02-01 22:02:37,241 - INFO - Inserting: 1247 - 2025-01-22 09:50:47+00:00
+2025-02-01 22:02:37,244 - INFO - Inserting: 1246 - 2025-01-22 09:50:46+00:00
+2025-02-01 22:02:37,248 - INFO - Inserting: 1245 - 2025-01-22 09:50:46+00:00
+2025-02-01 22:02:37,250 - INFO - Inserting: 1244 - 2025-01-07 03:35:34+00:00
+2025-02-01 22:02:37,253 - INFO - Inserting: 1243 - 2025-01-07 03:35:26+00:00
+2025-02-01 22:02:37,257 - INFO - Inserting: 1242 - 2024-12-16 07:08:46+00:00
+2025-02-01 22:02:37,259 - INFO - Inserting: 1241 - 2024-12-13 06:49:28+00:00
+2025-02-01 22:02:37,262 - INFO - Inserting: 1240 - 2024-12-12 03:02:57+00:00
+2025-02-01 22:02:37,265 - INFO - Inserting: 1239 - 2024-12-11 15:11:40+00:00
+2025-02-01 22:02:37,268 - INFO - Inserting: 1238 - 2024-12-10 09:39:25+00:00
+2025-02-01 22:02:37,270 - INFO - Inserting: 1237 - 2024-12-10 09:39:24+00:00
+2025-02-01 22:02:37,275 - INFO - Inserting: 1236 - 2024-12-10 09:39:24+00:00
+2025-02-01 22:02:37,277 - INFO - Inserting: 1235 - 2024-12-10 09:39:23+00:00
+2025-02-01 22:02:37,281 - INFO - Inserting: 1234 - 2024-12-08 08:17:20+00:00
+2025-02-01 22:02:37,285 - INFO - Inserting: 1233 - 2024-12-07 13:42:13+00:00
+2025-02-01 22:02:37,287 - INFO - Inserting: 1232 - 2024-12-03 10:26:03+00:00
+2025-02-01 22:02:37,290 - INFO - Inserting: 1231 - 2024-12-03 10:26:03+00:00
+2025-02-01 22:02:37,292 - INFO - Inserting: 1230 - 2024-12-01 15:49:16+00:00
+2025-02-01 22:02:37,294 - INFO - Inserting: 1229 - 2024-12-01 15:49:15+00:00
+2025-02-01 22:02:37,298 - INFO - Inserting: 1228 - 2024-12-01 15:49:15+00:00
+2025-02-01 22:02:37,301 - INFO - Inserting: 1227 - 2024-12-01 15:49:15+00:00
+2025-02-01 22:02:37,303 - INFO - Inserting: 1226 - 2024-12-01 15:49:14+00:00
+2025-02-01 22:02:37,305 - INFO - Inserting: 1225 - 2024-11-30 06:57:54+00:00
+2025-02-01 22:02:37,308 - INFO - Inserting: 1224 - 2024-11-30 06:57:53+00:00
+2025-02-01 22:02:37,310 - INFO - Inserting: 1223 - 2024-11-30 06:57:53+00:00
+2025-02-01 22:02:37,312 - INFO - Inserting: 1222 - 2024-11-30 06:57:52+00:00
+2025-02-01 22:02:37,318 - INFO - Inserting: 1221 - 2024-11-26 04:28:12+00:00
+2025-02-01 22:02:37,321 - INFO - Inserting: 1220 - 2024-11-24 04:55:57+00:00
+2025-02-01 22:02:37,326 - INFO - Inserting: 1219 - 2024-11-24 04:55:48+00:00
+2025-02-01 22:02:37,331 - INFO - Inserting: 1218 - 2024-11-24 04:55:48+00:00
+2025-02-01 22:02:37,334 - INFO - Inserting: 1217 - 2024-11-24 04:55:47+00:00
+2025-02-01 22:02:37,338 - INFO - Inserting: 1216 - 2024-11-24 04:55:47+00:00
+2025-02-01 22:02:37,340 - INFO - Inserting: 1215 - 2024-11-24 04:55:46+00:00
+2025-02-01 22:02:37,343 - INFO - Inserting: 1214 - 2024-11-14 04:50:53+00:00
+2025-02-01 22:02:37,345 - INFO - Inserting: 1213 - 2024-11-14 04:50:53+00:00
+2025-02-01 22:02:37,346 - INFO - Inserting: 1212 - 2024-11-14 04:50:52+00:00
+2025-02-01 22:02:37,349 - INFO - Inserting: 1211 - 2024-11-14 04:50:52+00:00
+2025-02-01 22:02:37,352 - INFO - Inserting: 1210 - 2024-11-14 04:50:51+00:00
+2025-02-01 22:02:37,354 - INFO - Inserting: 1209 - 2024-11-14 04:50:51+00:00
+2025-02-01 22:02:37,356 - INFO - Inserting: 1208 - 2024-11-10 16:55:02+00:00
+2025-02-01 22:02:37,358 - INFO - Inserting: 1207 - 2024-11-10 14:59:30+00:00
+2025-02-01 22:02:37,360 - INFO - Inserting: 1206 - 2024-11-06 06:36:27+00:00
+2025-02-01 22:02:37,361 - INFO - Inserting: 1205 - 2024-11-06 06:36:12+00:00
+2025-02-01 22:02:37,363 - INFO - Inserting: 1204 - 2024-11-06 06:36:12+00:00
+2025-02-01 22:02:37,365 - INFO - Inserting: 1203 - 2024-11-05 09:55:49+00:00
+2025-02-01 22:02:37,368 - INFO - Inserting: 1202 - 2024-10-30 08:21:08+00:00
+2025-02-01 22:02:37,371 - INFO - Inserting: 1201 - 2024-10-30 08:21:01+00:00
+2025-02-01 22:02:37,375 - INFO - Inserting: 1199 - 2024-10-27 17:10:42+00:00
+2025-02-01 22:02:37,377 - INFO - Inserting: 1198 - 2024-10-27 16:54:13+00:00
+2025-02-01 22:02:37,379 - INFO - Inserting: 1197 - 2024-10-27 15:36:41+00:00
+2025-02-01 22:02:37,380 - INFO - Inserting: 1196 - 2024-10-27 15:32:28+00:00
+2025-02-01 22:02:37,381 - INFO - Inserting: 1195 - 2024-10-27 15:05:49+00:00
+2025-02-01 22:02:37,383 - INFO - Inserting: 1194 - 2024-10-27 15:00:03+00:00
+2025-02-01 22:02:37,385 - INFO - Inserting: 1193 - 2024-10-24 04:16:30+00:00
+2025-02-01 22:02:37,387 - INFO - Inserting: 1192 - 2024-10-24 04:16:29+00:00
+2025-02-01 22:02:37,389 - INFO - Inserting: 1191 - 2024-10-23 02:00:16+00:00
+2025-02-01 22:02:37,392 - INFO - Inserting: 1190 - 2024-10-21 04:48:03+00:00
+2025-02-01 22:02:37,394 - INFO - Inserting: 1189 - 2024-10-21 04:48:02+00:00
+2025-02-01 22:02:37,395 - INFO - Inserting: 1188 - 2024-10-21 04:48:02+00:00
+2025-02-01 22:02:37,397 - INFO - Inserting: 1187 - 2024-10-21 04:48:01+00:00
+2025-02-01 22:02:37,399 - INFO - Inserting: 1186 - 2024-10-20 16:11:08+00:00
+2025-02-01 22:02:37,403 - INFO - Inserting: 1185 - 2024-10-20 13:23:41+00:00
+2025-02-01 22:02:37,405 - INFO - Inserting: 1184 - 2024-10-16 18:43:58+00:00
+2025-02-01 22:02:37,407 - INFO - Inserting: 1183 - 2024-10-16 18:43:57+00:00
+2025-02-01 22:02:37,408 - INFO - Inserting: 1182 - 2024-10-16 15:22:55+00:00
+2025-02-01 22:02:37,410 - INFO - Inserting: 1181 - 2024-10-06 16:26:40+00:00
+2025-02-01 22:02:37,412 - INFO - Inserting: 1180 - 2024-10-06 15:03:40+00:00
+2025-02-01 22:02:37,414 - INFO - Inserting: 1179 - 2024-10-06 14:58:28+00:00
+2025-02-01 22:02:37,416 - INFO - Inserting: 1178 - 2024-10-04 13:14:17+00:00
+2025-02-01 22:02:37,418 - INFO - Inserting: 1177 - 2024-10-04 13:14:17+00:00
+2025-02-01 22:02:37,421 - INFO - Inserting: 1176 - 2024-10-04 13:14:16+00:00
+2025-02-01 22:02:37,422 - INFO - Inserting: 1175 - 2024-10-04 13:14:16+00:00
+2025-02-01 22:02:37,424 - INFO - Inserting: 1172 - 2024-10-03 05:09:38+00:00
+2025-02-01 22:02:37,425 - INFO - Inserting: 1171 - 2024-10-03 05:09:38+00:00
+2025-02-01 22:02:37,427 - INFO - Inserting: 1170 - 2024-10-02 10:33:05+00:00
+2025-02-01 22:02:37,428 - INFO - Inserting: 1169 - 2024-10-02 07:04:03+00:00
+2025-02-01 22:02:37,430 - INFO - Inserting: 1168 - 2024-09-25 06:38:30+00:00
+2025-02-01 22:02:37,432 - INFO - Inserting: 1167 - 2024-09-25 06:38:30+00:00
+2025-02-01 22:02:37,433 - INFO - Inserting: 1166 - 2024-09-25 06:38:29+00:00
+2025-02-01 22:02:37,436 - INFO - Inserting: 1165 - 2024-09-25 06:38:29+00:00
+2025-02-01 22:02:37,438 - INFO - Inserting: 1164 - 2024-09-25 06:38:28+00:00
+2025-02-01 22:02:37,439 - INFO - Inserting: 1163 - 2024-09-23 08:09:39+00:00
+2025-02-01 22:02:37,442 - INFO - Inserting: 1162 - 2024-09-23 08:09:39+00:00
+2025-02-01 22:02:37,444 - INFO - Inserting: 1161 - 2024-09-23 08:09:38+00:00
+2025-02-01 22:02:37,445 - INFO - Inserting: 1160 - 2024-09-11 07:46:56+00:00
+2025-02-01 22:02:37,447 - INFO - Inserting: 1159 - 2024-09-04 19:09:47+00:00
+2025-02-01 22:02:37,448 - INFO - Inserting: 1158 - 2024-09-04 19:09:46+00:00
+2025-02-01 22:02:37,450 - INFO - Inserting: 1157 - 2024-08-26 17:29:14+00:00
+2025-02-01 22:02:37,452 - INFO - Inserting: 1156 - 2024-08-21 21:45:26+00:00
+2025-02-01 22:02:37,454 - INFO - Inserting: 1155 - 2024-08-21 10:20:11+00:00
+2025-02-01 22:02:37,456 - INFO - Inserting: 1154 - 2024-08-21 10:20:11+00:00
+2025-02-01 22:02:37,458 - INFO - Inserting: 1153 - 2024-08-21 10:20:10+00:00
+2025-02-01 22:02:37,459 - INFO - Inserting: 1152 - 2024-08-21 10:20:09+00:00
+2025-02-01 22:02:37,461 - INFO - Inserting: 1151 - 2024-08-21 10:20:09+00:00
+2025-02-01 22:02:37,462 - INFO - Inserting: 1150 - 2024-08-19 16:25:15+00:00
+2025-02-01 22:02:37,466 - INFO - Inserting: 1149 - 2024-08-19 16:25:15+00:00
+2025-02-01 22:02:37,468 - INFO - Inserting: 1148 - 2024-08-19 16:24:22+00:00
+2025-02-01 22:02:37,470 - INFO - Inserting: 1147 - 2024-08-19 16:22:35+00:00
+2025-02-01 22:02:37,471 - INFO - Inserting: 1146 - 2024-08-19 16:19:25+00:00
+2025-02-01 22:02:37,473 - INFO - Inserting: 1145 - 2024-08-19 16:19:25+00:00
+2025-02-01 22:02:37,475 - INFO - Inserting: 2609 - 2025-02-01 07:37:50+00:00
+2025-02-01 22:02:37,477 - INFO - Inserting: 2608 - 2025-02-01 07:18:21+00:00
+2025-02-01 22:02:37,479 - INFO - Inserting: 2607 - 2025-01-31 13:45:58+00:00
+2025-02-01 22:02:37,481 - INFO - Inserting: 2606 - 2025-01-31 12:31:56+00:00
+2025-02-01 22:02:37,483 - INFO - Inserting: 2605 - 2025-01-31 11:58:34+00:00
+2025-02-01 22:02:37,487 - INFO - Inserting: 2604 - 2025-01-31 09:01:14+00:00
+2025-02-01 22:02:37,489 - INFO - Inserting: 2603 - 2025-01-30 12:42:18+00:00
+2025-02-01 22:02:37,492 - INFO - Inserting: 2602 - 2025-01-30 12:17:14+00:00
+2025-02-01 22:02:37,493 - INFO - Inserting: 2601 - 2025-01-30 09:57:21+00:00
+2025-02-01 22:02:37,495 - INFO - Inserting: 2600 - 2025-01-29 17:00:02+00:00
+2025-02-01 22:02:37,497 - INFO - Inserting: 2598 - 2025-01-29 12:34:11+00:00
+2025-02-01 22:02:37,498 - INFO - Inserting: 2597 - 2025-01-27 11:01:51+00:00
+2025-02-01 22:02:37,500 - INFO - Inserting: 2596 - 2025-01-26 13:17:46+00:00
+2025-02-01 22:02:37,502 - INFO - Inserting: 2595 - 2025-01-26 13:17:40+00:00
+2025-02-01 22:02:37,505 - INFO - Inserting: 2594 - 2025-01-25 08:37:18+00:00
+2025-02-01 22:02:37,506 - INFO - Inserting: 2593 - 2025-01-24 14:09:14+00:00
+2025-02-01 22:02:37,508 - INFO - Inserting: 2592 - 2025-01-24 08:49:19+00:00
+2025-02-01 22:02:37,510 - INFO - Inserting: 2591 - 2025-01-23 07:31:53+00:00
+2025-02-01 22:02:37,512 - INFO - Inserting: 2590 - 2025-01-22 05:45:11+00:00
+2025-02-01 22:02:37,514 - INFO - Inserting: 2589 - 2025-01-21 08:20:09+00:00
+2025-02-01 22:02:37,516 - INFO - Inserting: 2588 - 2025-01-20 16:48:10+00:00
+2025-02-01 22:02:37,518 - INFO - Inserting: 2587 - 2025-01-20 06:39:24+00:00
+2025-02-01 22:02:37,520 - INFO - Inserting: 2586 - 2025-01-20 06:38:55+00:00
+2025-02-01 22:02:37,522 - INFO - Inserting: 2585 - 2025-01-20 06:38:42+00:00
+2025-02-01 22:02:37,524 - INFO - Inserting: 2584 - 2025-01-19 10:52:45+00:00
+2025-02-01 22:02:37,525 - INFO - Inserting: 2583 - 2025-01-19 10:48:03+00:00
+2025-02-01 22:02:37,527 - INFO - Inserting: 2582 - 2025-01-19 09:59:28+00:00
+2025-02-01 22:02:37,529 - INFO - Inserting: 2581 - 2025-01-19 09:27:42+00:00
+2025-02-01 22:02:37,530 - INFO - Inserting: 2580 - 2025-01-18 12:41:52+00:00
+2025-02-01 22:02:37,532 - INFO - Inserting: 2579 - 2025-01-17 13:12:09+00:00
+2025-02-01 22:02:37,534 - INFO - Inserting: 2578 - 2025-01-16 06:10:26+00:00
+2025-02-01 22:02:37,536 - INFO - Inserting: 2577 - 2025-01-13 06:20:54+00:00
+2025-02-01 22:02:37,539 - INFO - Inserting: 2576 - 2025-01-13 05:50:10+00:00
+2025-02-01 22:02:37,541 - INFO - Inserting: 2575 - 2025-01-12 16:35:19+00:00
+2025-02-01 22:02:37,542 - INFO - Inserting: 2574 - 2025-01-10 08:07:35+00:00
+2025-02-01 22:02:37,544 - INFO - Inserting: 2573 - 2025-01-10 05:58:04+00:00
+2025-02-01 22:02:37,546 - INFO - Inserting: 2571 - 2025-01-10 05:53:11+00:00
+2025-02-01 22:02:37,547 - INFO - Inserting: 2570 - 2025-01-09 16:33:26+00:00
+2025-02-01 22:02:37,549 - INFO - Inserting: 2568 - 2025-01-09 16:05:33+00:00
+2025-02-01 22:02:37,551 - INFO - Inserting: 2567 - 2025-01-08 17:50:22+00:00
+2025-02-01 22:02:37,554 - INFO - Inserting: 2566 - 2025-01-06 15:02:11+00:00
+2025-02-01 22:02:37,555 - INFO - Inserting: 2565 - 2025-01-05 05:06:39+00:00
+2025-02-01 22:02:37,557 - INFO - Inserting: 2564 - 2025-01-03 13:33:09+00:00
+2025-02-01 22:02:37,559 - INFO - Inserting: 2563 - 2025-01-02 05:58:30+00:00
+2025-02-01 22:02:37,561 - INFO - Inserting: 2562 - 2025-01-01 09:06:03+00:00
+2025-02-01 22:02:37,563 - INFO - Inserting: 2559 - 2024-12-31 21:34:28+00:00
+2025-02-01 22:02:37,564 - INFO - Inserting: 2558 - 2024-12-31 10:22:34+00:00
+2025-02-01 22:02:37,566 - INFO - Inserting: 2556 - 2024-12-31 09:47:56+00:00
+2025-02-01 22:02:37,568 - INFO - Inserting: 2555 - 2024-12-31 09:17:37+00:00
+2025-02-01 22:02:37,570 - INFO - Inserting: 2554 - 2024-12-31 09:11:31+00:00
+2025-02-01 22:02:37,572 - INFO - Inserting: 2553 - 2024-12-26 13:09:58+00:00
+2025-02-01 22:02:37,573 - INFO - Inserting: 2552 - 2024-12-26 10:20:47+00:00
+2025-02-01 22:02:37,575 - INFO - Inserting: 2551 - 2024-12-26 08:25:04+00:00
+2025-02-01 22:02:37,576 - INFO - Inserting: 2549 - 2024-12-25 11:55:35+00:00
+2025-02-01 22:02:37,579 - INFO - Inserting: 2545 - 2024-12-24 08:53:28+00:00
+2025-02-01 22:02:37,580 - INFO - Inserting: 2544 - 2024-12-23 12:44:50+00:00
+2025-02-01 22:02:37,582 - INFO - Inserting: 2542 - 2024-12-23 12:25:26+00:00
+2025-02-01 22:02:37,583 - INFO - Inserting: 2541 - 2024-12-23 09:21:42+00:00
+2025-02-01 22:02:37,586 - INFO - Inserting: 2540 - 2024-12-23 09:20:43+00:00
+2025-02-01 22:02:37,588 - INFO - Inserting: 2539 - 2024-12-23 06:11:00+00:00
+2025-02-01 22:02:37,590 - INFO - Inserting: 2538 - 2024-12-21 07:47:34+00:00
+2025-02-01 22:02:37,592 - INFO - Inserting: 2537 - 2024-12-20 06:29:07+00:00
+2025-02-01 22:02:37,594 - INFO - Inserting: 2536 - 2024-12-19 08:44:45+00:00
+2025-02-01 22:02:37,595 - INFO - Inserting: 2535 - 2024-12-18 19:52:29+00:00
+2025-02-01 22:02:37,596 - INFO - Inserting: 2534 - 2024-12-18 10:38:35+00:00
+2025-02-01 22:02:37,598 - INFO - Inserting: 2533 - 2024-12-17 20:15:57+00:00
+2025-02-01 22:02:37,600 - INFO - Inserting: 2532 - 2024-12-17 07:24:52+00:00
+2025-02-01 22:02:37,602 - INFO - Inserting: 2531 - 2024-12-17 06:19:22+00:00
+2025-02-01 22:02:37,604 - INFO - Inserting: 2530 - 2024-12-17 06:14:10+00:00
+2025-02-01 22:02:37,605 - INFO - Inserting: 2529 - 2024-12-14 09:43:06+00:00
+2025-02-01 22:02:37,607 - INFO - Inserting: 2528 - 2024-12-13 12:44:14+00:00
+2025-02-01 22:02:37,608 - INFO - Inserting: 2527 - 2024-12-13 12:05:32+00:00
+2025-02-01 22:02:37,609 - INFO - Inserting: 2526 - 2024-12-13 11:11:34+00:00
+2025-02-01 22:02:37,612 - INFO - Inserting: 2525 - 2024-12-13 11:09:41+00:00
+2025-02-01 22:02:37,614 - INFO - Inserting: 2524 - 2024-12-10 04:59:56+00:00
+2025-02-01 22:02:37,615 - INFO - Inserting: 2523 - 2024-12-09 18:40:09+00:00
+2025-02-01 22:02:37,617 - INFO - Inserting: 2522 - 2024-12-09 15:11:11+00:00
+2025-02-01 22:02:37,619 - INFO - Inserting: 2521 - 2024-12-09 15:11:11+00:00
+2025-02-01 22:02:37,620 - INFO - Inserting: 2520 - 2024-12-09 15:11:11+00:00
+2025-02-01 22:02:37,622 - INFO - Inserting: 2519 - 2024-12-09 07:54:33+00:00
+2025-02-01 22:02:37,624 - INFO - Inserting: 2518 - 2024-12-09 07:05:17+00:00
+2025-02-01 22:02:37,625 - INFO - Inserting: 2517 - 2024-12-08 22:26:14+00:00
+2025-02-01 22:02:37,627 - INFO - Inserting: 2516 - 2024-12-08 19:30:01+00:00
+2025-02-01 22:02:37,628 - INFO - Inserting: 2515 - 2024-12-08 18:07:24+00:00
+2025-02-01 22:02:37,629 - INFO - Inserting: 2514 - 2024-12-08 14:47:59+00:00
+2025-02-01 22:02:37,631 - INFO - Inserting: 2513 - 2024-12-07 04:26:19+00:00
+2025-02-01 22:02:37,632 - INFO - Inserting: 2512 - 2024-12-06 14:55:02+00:00
+2025-02-01 22:02:37,634 - INFO - Inserting: 2511 - 2024-12-06 14:54:50+00:00
+2025-02-01 22:02:37,636 - INFO - Inserting: 2510 - 2024-12-04 10:16:05+00:00
+2025-02-01 22:02:37,638 - INFO - Inserting: 2509 - 2024-12-04 08:47:44+00:00
+2025-02-01 22:02:37,639 - INFO - Inserting: 2507 - 2024-12-04 08:45:41+00:00
+2025-02-01 22:02:37,640 - INFO - Inserting: 2506 - 2024-12-02 08:21:54+00:00
+2025-02-01 22:02:37,642 - INFO - Inserting: 2505 - 2024-12-01 16:13:30+00:00
+2025-02-01 22:02:37,643 - INFO - Inserting: 2503 - 2024-11-29 07:44:13+00:00
+2025-02-01 22:02:37,645 - INFO - Inserting: 2502 - 2024-11-29 07:44:13+00:00
+2025-02-01 22:02:37,647 - INFO - Inserting: 2501 - 2024-11-29 07:44:13+00:00
+2025-02-01 22:02:37,648 - INFO - Inserting: 2500 - 2024-11-28 13:24:29+00:00
+2025-02-01 22:02:37,649 - INFO - Inserting: 2499 - 2024-11-28 09:34:47+00:00
+2025-02-01 22:02:37,651 - INFO - Inserting: 2498 - 2024-11-28 09:32:49+00:00
+2025-02-01 22:02:37,653 - INFO - Inserting: 2496 - 2024-11-28 05:53:04+00:00
+2025-02-01 22:02:37,656 - INFO - ✅ 476 records inserted into PostgreSQL database.
+2025-02-02 01:49:13,889 - INFO - ✅ Duplicates removed from dataset.
+2025-02-02 01:49:13,917 - INFO - ✅ Date column formatted to datetime.
+2025-02-02 01:49:13,923 - INFO - ✅ Missing values filled.
+2025-02-02 01:49:13,936 - INFO - ✅ Text columns standardized.
+2025-02-02 01:49:13,960 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-02 01:49:14,003 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-02 01:49:14,009 - INFO - ✅ Data cleaning completed successfully.
+2025-02-02 01:49:14,160 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-02 01:49:14,433 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-02-02 01:49:14,779 - INFO - Inserting: 864 - 2023-12-18 17:04:02+00:00
+2025-02-02 01:49:14,790 - INFO - Inserting: 863 - 2023-11-03 16:14:39+00:00
+2025-02-02 01:49:14,796 - INFO - Inserting: 862 - 2023-10-02 16:37:39+00:00
+2025-02-02 01:49:14,803 - INFO - Inserting: 861 - 2023-09-16 07:54:32+00:00
+2025-02-02 01:49:14,815 - INFO - Inserting: 860 - 2023-09-01 16:16:15+00:00
+2025-02-02 01:49:14,819 - INFO - Inserting: 859 - 2023-08-29 17:20:05+00:00
+2025-02-02 01:49:14,827 - INFO - Inserting: 848 - 2022-08-02 17:42:08+00:00
+2025-02-02 01:49:14,835 - INFO - Inserting: 847 - 2022-06-12 17:15:47+00:00
+2025-02-02 01:49:14,838 - INFO - Inserting: 846 - 2022-05-31 17:51:13+00:00
+2025-02-02 01:49:14,845 - INFO - Inserting: 845 - 2022-05-20 18:04:53+00:00
+2025-02-02 01:49:14,854 - INFO - Inserting: 844 - 2022-05-15 15:59:10+00:00
+2025-02-02 01:49:14,862 - INFO - Inserting: 843 - 2022-05-07 18:22:14+00:00
+2025-02-02 01:49:14,875 - INFO - Inserting: 842 - 2022-05-06 17:51:05+00:00
+2025-02-02 01:49:14,886 - INFO - Inserting: 841 - 2022-05-06 17:51:05+00:00
+2025-02-02 01:49:14,890 - INFO - Inserting: 840 - 2022-05-06 17:51:05+00:00
+2025-02-02 01:49:14,894 - INFO - Inserting: 839 - 2022-05-06 17:51:05+00:00
+2025-02-02 01:49:14,904 - INFO - Inserting: 836 - 2022-05-01 11:13:33+00:00
+2025-02-02 01:49:14,910 - INFO - Inserting: 835 - 2022-04-29 18:59:05+00:00
+2025-02-02 01:49:14,918 - INFO - Inserting: 834 - 2022-04-29 18:57:35+00:00
+2025-02-02 01:49:14,925 - INFO - Inserting: 833 - 2022-04-28 05:46:38+00:00
+2025-02-02 01:49:14,939 - INFO - Inserting: 832 - 2022-04-28 05:46:38+00:00
+2025-02-02 01:49:14,949 - INFO - Inserting: 831 - 2022-04-28 05:46:38+00:00
+2025-02-02 01:49:14,958 - INFO - Inserting: 830 - 2022-04-28 05:46:38+00:00
+2025-02-02 01:49:14,971 - INFO - Inserting: 829 - 2022-04-24 17:11:09+00:00
+2025-02-02 01:49:14,980 - INFO - Inserting: 828 - 2022-04-22 18:55:31+00:00
+2025-02-02 01:49:14,987 - INFO - Inserting: 827 - 2022-04-22 17:51:05+00:00
+2025-02-02 01:49:15,002 - INFO - Inserting: 826 - 2022-04-22 17:51:05+00:00
+2025-02-02 01:49:15,010 - INFO - Inserting: 825 - 2022-04-22 17:51:04+00:00
+2025-02-02 01:49:15,012 - INFO - Inserting: 824 - 2022-04-22 17:51:04+00:00
+2025-02-02 01:49:15,016 - INFO - Inserting: 823 - 2022-04-22 17:51:04+00:00
+2025-02-02 01:49:15,019 - INFO - Inserting: 822 - 2022-04-22 17:51:04+00:00
+2025-02-02 01:49:15,028 - INFO - Inserting: 821 - 2022-04-19 17:38:05+00:00
+2025-02-02 01:49:15,035 - INFO - Inserting: 820 - 2022-04-15 18:06:19+00:00
+2025-02-02 01:49:15,042 - INFO - Inserting: 819 - 2022-04-15 18:06:19+00:00
+2025-02-02 01:49:15,049 - INFO - Inserting: 818 - 2022-04-15 18:06:19+00:00
+2025-02-02 01:49:15,057 - INFO - Inserting: 817 - 2022-04-14 04:14:11+00:00
+2025-02-02 01:49:15,063 - INFO - Inserting: 815 - 2022-04-12 18:01:18+00:00
+2025-02-02 01:49:15,066 - INFO - Inserting: 814 - 2022-04-08 17:07:21+00:00
+2025-02-02 01:49:15,070 - INFO - Inserting: 813 - 2022-04-08 17:07:21+00:00
+2025-02-02 01:49:15,073 - INFO - Inserting: 812 - 2022-04-08 17:07:21+00:00
+2025-02-02 01:49:15,075 - INFO - Inserting: 811 - 2022-04-08 17:07:21+00:00
+2025-02-02 01:49:15,080 - INFO - Inserting: 810 - 2022-04-07 04:24:11+00:00
+2025-02-02 01:49:15,085 - INFO - Inserting: 809 - 2022-04-07 04:24:11+00:00
+2025-02-02 01:49:15,092 - INFO - Inserting: 808 - 2022-04-07 04:24:11+00:00
+2025-02-02 01:49:15,099 - INFO - Inserting: 807 - 2022-04-07 04:24:11+00:00
+2025-02-02 01:49:15,104 - INFO - Inserting: 805 - 2022-04-03 16:15:29+00:00
+2025-02-02 01:49:15,108 - INFO - Inserting: 804 - 2022-04-02 06:06:36+00:00
+2025-02-02 01:49:15,118 - INFO - Inserting: 802 - 2022-04-01 17:02:54+00:00
+2025-02-02 01:49:15,122 - INFO - Inserting: 801 - 2022-04-01 17:02:54+00:00
+2025-02-02 01:49:15,125 - INFO - Inserting: 800 - 2022-04-01 17:02:54+00:00
+2025-02-02 01:49:15,128 - INFO - Inserting: 799 - 2022-04-01 17:02:54+00:00
+2025-02-02 01:49:15,131 - INFO - Inserting: 798 - 2022-04-01 17:02:54+00:00
+2025-02-02 01:49:15,135 - INFO - Inserting: 797 - 2022-03-26 17:46:39+00:00
+2025-02-02 01:49:15,140 - INFO - Inserting: 796 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,144 - INFO - Inserting: 795 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,148 - INFO - Inserting: 794 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,151 - INFO - Inserting: 793 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,155 - INFO - Inserting: 792 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,159 - INFO - Inserting: 791 - 2022-03-25 17:21:06+00:00
+2025-02-02 01:49:15,163 - INFO - Inserting: 790 - 2022-03-19 16:57:52+00:00
+2025-02-02 01:49:15,166 - INFO - Inserting: 789 - 2022-03-18 18:39:57+00:00
+2025-02-02 01:49:15,172 - INFO - Inserting: 788 - 2022-03-18 18:39:57+00:00
+2025-02-02 01:49:15,180 - INFO - Inserting: 787 - 2022-03-18 17:53:09+00:00
+2025-02-02 01:49:15,188 - INFO - Inserting: 786 - 2022-03-18 17:53:09+00:00
+2025-02-02 01:49:15,195 - INFO - Inserting: 785 - 2022-03-18 17:53:09+00:00
+2025-02-02 01:49:15,201 - INFO - Inserting: 784 - 2022-03-18 17:53:09+00:00
+2025-02-02 01:49:15,209 - INFO - Inserting: 783 - 2022-03-18 17:53:08+00:00
+2025-02-02 01:49:15,219 - INFO - Inserting: 782 - 2022-03-15 17:57:48+00:00
+2025-02-02 01:49:15,233 - INFO - Inserting: 781 - 2022-03-14 16:42:04+00:00
+2025-02-02 01:49:15,245 - INFO - Inserting: 780 - 2022-03-09 17:35:30+00:00
+2025-02-02 01:49:15,252 - INFO - Inserting: 779 - 2022-03-06 17:25:38+00:00
+2025-02-02 01:49:15,256 - INFO - Inserting: 778 - 2022-03-04 18:27:46+00:00
+2025-02-02 01:49:15,264 - INFO - Inserting: 777 - 2022-03-04 18:27:46+00:00
+2025-02-02 01:49:15,267 - INFO - Inserting: 776 - 2022-03-04 18:27:46+00:00
+2025-02-02 01:49:15,276 - INFO - Inserting: 775 - 2022-03-02 17:50:31+00:00
+2025-02-02 01:49:15,285 - INFO - Inserting: 774 - 2022-02-25 18:57:34+00:00
+2025-02-02 01:49:15,290 - INFO - Inserting: 773 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,293 - INFO - Inserting: 772 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,297 - INFO - Inserting: 771 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,303 - INFO - Inserting: 770 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,306 - INFO - Inserting: 769 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,309 - INFO - Inserting: 768 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,314 - INFO - Inserting: 767 - 2022-02-25 17:46:07+00:00
+2025-02-02 01:49:15,317 - INFO - Inserting: 766 - 2022-02-25 17:46:06+00:00
+2025-02-02 01:49:15,320 - INFO - Inserting: 765 - 2022-02-24 17:09:10+00:00
+2025-02-02 01:49:15,323 - INFO - Inserting: 764 - 2022-02-18 16:56:56+00:00
+2025-02-02 01:49:15,327 - INFO - Inserting: 763 - 2022-02-18 16:56:56+00:00
+2025-02-02 01:49:15,331 - INFO - Inserting: 762 - 2022-02-18 16:56:56+00:00
+2025-02-02 01:49:15,334 - INFO - Inserting: 761 - 2022-02-18 16:56:56+00:00
+2025-02-02 01:49:15,336 - INFO - Inserting: 760 - 2022-02-18 16:56:55+00:00
+2025-02-02 01:49:15,339 - INFO - Inserting: 759 - 2022-02-18 16:56:55+00:00
+2025-02-02 01:49:15,342 - INFO - Inserting: 758 - 2022-02-17 17:29:28+00:00
+2025-02-02 01:49:15,345 - INFO - Inserting: 757 - 2022-02-11 18:39:23+00:00
+2025-02-02 01:49:15,350 - INFO - Inserting: 756 - 2022-02-11 17:23:23+00:00
+2025-02-02 01:49:15,353 - INFO - Inserting: 755 - 2022-02-11 17:23:23+00:00
+2025-02-02 01:49:15,357 - INFO - Inserting: 754 - 2022-02-11 17:23:23+00:00
+2025-02-02 01:49:15,359 - INFO - Inserting: 753 - 2022-02-11 17:23:23+00:00
+2025-02-02 01:49:15,362 - INFO - Inserting: 752 - 2022-02-08 18:21:30+00:00
+2025-02-02 01:49:15,365 - INFO - Inserting: 751 - 2022-02-08 18:20:57+00:00
+2025-02-02 01:49:15,369 - INFO - Inserting: 750 - 2022-02-05 04:59:06+00:00
+2025-02-02 01:49:15,372 - INFO - Inserting: 97 - 2023-02-10 12:23:06+00:00
+2025-02-02 01:49:15,374 - INFO - Inserting: 96 - 2023-02-02 08:58:52+00:00
+2025-02-02 01:49:15,378 - INFO - Inserting: 95 - 2023-02-01 08:59:37+00:00
+2025-02-02 01:49:15,381 - INFO - Inserting: 94 - 2023-01-31 09:19:53+00:00
+2025-02-02 01:49:15,385 - INFO - Inserting: 93 - 2023-01-30 09:45:25+00:00
+2025-02-02 01:49:15,387 - INFO - Inserting: 92 - 2023-01-27 07:18:40+00:00
+2025-02-02 01:49:15,391 - INFO - Inserting: 91 - 2023-01-26 18:27:53+00:00
+2025-02-02 01:49:15,393 - INFO - Inserting: 90 - 2023-01-23 10:39:20+00:00
+2025-02-02 01:49:15,396 - INFO - Inserting: 89 - 2023-01-17 19:10:57+00:00
+2025-02-02 01:49:15,399 - INFO - Inserting: 88 - 2023-01-17 08:43:12+00:00
+2025-02-02 01:49:15,402 - INFO - Inserting: 87 - 2023-01-16 13:41:35+00:00
+2025-02-02 01:49:15,405 - INFO - Inserting: 86 - 2023-01-16 10:13:42+00:00
+2025-02-02 01:49:15,408 - INFO - Inserting: 85 - 2023-01-16 09:26:09+00:00
+2025-02-02 01:49:15,413 - INFO - Inserting: 82 - 2023-01-13 12:48:47+00:00
+2025-02-02 01:49:15,420 - INFO - Inserting: 81 - 2023-01-13 09:44:14+00:00
+2025-02-02 01:49:15,423 - INFO - Inserting: 80 - 2023-01-06 16:06:21+00:00
+2025-02-02 01:49:15,429 - INFO - Inserting: 79 - 2023-01-06 09:31:17+00:00
+2025-02-02 01:49:15,432 - INFO - Inserting: 78 - 2023-01-06 06:05:01+00:00
+2025-02-02 01:49:15,436 - INFO - Inserting: 77 - 2023-01-04 05:58:02+00:00
+2025-02-02 01:49:15,442 - INFO - Inserting: 76 - 2023-01-03 17:49:48+00:00
+2025-02-02 01:49:15,445 - INFO - Inserting: 75 - 2023-01-03 05:48:34+00:00
+2025-02-02 01:49:15,453 - INFO - Inserting: 74 - 2023-01-02 07:02:55+00:00
+2025-02-02 01:49:15,458 - INFO - Inserting: 73 - 2023-01-02 06:58:48+00:00
+2025-02-02 01:49:15,461 - INFO - Inserting: 71 - 2022-12-30 15:45:35+00:00
+2025-02-02 01:49:15,468 - INFO - Inserting: 70 - 2022-12-28 17:02:08+00:00
+2025-02-02 01:49:15,473 - INFO - Inserting: 67 - 2022-12-28 06:31:50+00:00
+2025-02-02 01:49:15,477 - INFO - Inserting: 64 - 2022-12-27 17:06:32+00:00
+2025-02-02 01:49:15,483 - INFO - Inserting: 62 - 2022-12-25 15:46:05+00:00
+2025-02-02 01:49:15,488 - INFO - Inserting: 60 - 2022-12-23 06:26:15+00:00
+2025-02-02 01:49:15,493 - INFO - Inserting: 59 - 2022-12-22 06:40:25+00:00
+2025-02-02 01:49:15,497 - INFO - Inserting: 58 - 2022-12-22 03:11:26+00:00
+2025-02-02 01:49:15,506 - INFO - Inserting: 57 - 2022-12-21 15:13:27+00:00
+2025-02-02 01:49:15,508 - INFO - Inserting: 56 - 2022-12-20 17:25:05+00:00
+2025-02-02 01:49:15,513 - INFO - Inserting: 55 - 2022-12-20 11:28:59+00:00
+2025-02-02 01:49:15,517 - INFO - Inserting: 53 - 2022-12-20 07:41:33+00:00
+2025-02-02 01:49:15,523 - INFO - Inserting: 52 - 2022-12-16 12:21:01+00:00
+2025-02-02 01:49:15,529 - INFO - Inserting: 51 - 2022-12-15 06:16:41+00:00
+2025-02-02 01:49:15,532 - INFO - Inserting: 50 - 2022-12-13 05:55:18+00:00
+2025-02-02 01:49:15,534 - INFO - Inserting: 49 - 2022-12-09 12:28:53+00:00
+2025-02-02 01:49:15,537 - INFO - Inserting: 48 - 2022-12-09 04:09:49+00:00
+2025-02-02 01:49:15,539 - INFO - Inserting: 46 - 2022-12-07 06:43:48+00:00
+2025-02-02 01:49:15,542 - INFO - Inserting: 45 - 2022-12-05 05:57:22+00:00
+2025-02-02 01:49:15,545 - INFO - Inserting: 44 - 2022-12-04 12:35:18+00:00
+2025-02-02 01:49:15,548 - INFO - Inserting: 43 - 2022-12-02 13:44:41+00:00
+2025-02-02 01:49:15,554 - INFO - Inserting: 41 - 2022-12-02 06:06:12+00:00
+2025-02-02 01:49:15,557 - INFO - Inserting: 40 - 2022-12-01 06:47:22+00:00
+2025-02-02 01:49:15,560 - INFO - Inserting: 39 - 2022-11-30 06:31:44+00:00
+2025-02-02 01:49:15,565 - INFO - Inserting: 38 - 2022-11-29 07:43:06+00:00
+2025-02-02 01:49:15,569 - INFO - Inserting: 34 - 2022-11-22 08:15:47+00:00
+2025-02-02 01:49:15,576 - INFO - Inserting: 33 - 2022-11-15 11:51:16+00:00
+2025-02-02 01:49:15,586 - INFO - Inserting: 32 - 2022-11-15 08:17:41+00:00
+2025-02-02 01:49:15,593 - INFO - Inserting: 31 - 2022-11-15 05:24:41+00:00
+2025-02-02 01:49:15,599 - INFO - Inserting: 30 - 2022-11-09 08:53:25+00:00
+2025-02-02 01:49:15,605 - INFO - Inserting: 29 - 2022-10-29 20:26:28+00:00
+2025-02-02 01:49:15,609 - INFO - Inserting: 27 - 2022-10-28 09:15:09+00:00
+2025-02-02 01:49:15,613 - INFO - Inserting: 26 - 2022-10-28 06:49:36+00:00
+2025-02-02 01:49:15,619 - INFO - Inserting: 25 - 2022-10-24 09:34:19+00:00
+2025-02-02 01:49:15,624 - INFO - Inserting: 23 - 2022-10-20 12:24:01+00:00
+2025-02-02 01:49:15,632 - INFO - Inserting: 22 - 2022-10-18 07:57:36+00:00
+2025-02-02 01:49:15,640 - INFO - Inserting: 21 - 2022-10-17 14:02:40+00:00
+2025-02-02 01:49:15,643 - INFO - Inserting: 20 - 2022-10-12 14:14:52+00:00
+2025-02-02 01:49:15,648 - INFO - Inserting: 19 - 2022-10-12 14:14:19+00:00
+2025-02-02 01:49:15,656 - INFO - Inserting: 18 - 2022-10-06 09:23:46+00:00
+2025-02-02 01:49:15,661 - INFO - Inserting: 17 - 2022-10-03 05:16:30+00:00
+2025-02-02 01:49:15,668 - INFO - Inserting: 15 - 2022-09-30 07:33:42+00:00
+2025-02-02 01:49:15,673 - INFO - Inserting: 14 - 2022-09-28 05:45:31+00:00
+2025-02-02 01:49:15,683 - INFO - Inserting: 13 - 2022-09-16 07:42:31+00:00
+2025-02-02 01:49:15,688 - INFO - Inserting: 11 - 2022-09-10 15:55:25+00:00
+2025-02-02 01:49:15,694 - INFO - Inserting: 10 - 2022-09-07 09:16:40+00:00
+2025-02-02 01:49:15,697 - INFO - Inserting: 9 - 2022-09-06 04:26:15+00:00
+2025-02-02 01:49:15,702 - INFO - Inserting: 7 - 2022-09-06 04:25:26+00:00
+2025-02-02 01:49:15,704 - INFO - Inserting: 6 - 2022-09-05 10:02:48+00:00
+2025-02-02 01:49:15,708 - INFO - Inserting: 4 - 2022-09-05 10:02:24+00:00
+2025-02-02 01:49:15,711 - INFO - Inserting: 3 - 2022-09-05 10:02:05+00:00
+2025-02-02 01:49:15,716 - INFO - Inserting: 2 - 2022-09-05 09:57:09+00:00
+2025-02-02 01:49:15,723 - INFO - Inserting: 1 - 2022-09-05 08:35:59+00:00
+2025-02-02 01:49:15,727 - INFO - Inserting: 15241 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,730 - INFO - Inserting: 15240 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,732 - INFO - Inserting: 15239 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,737 - INFO - Inserting: 15238 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,741 - INFO - Inserting: 15237 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,744 - INFO - Inserting: 15236 - 2025-02-01 12:21:27+00:00
+2025-02-02 01:49:15,747 - INFO - Inserting: 15235 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,749 - INFO - Inserting: 15234 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,754 - INFO - Inserting: 15233 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,757 - INFO - Inserting: 15232 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,760 - INFO - Inserting: 15231 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,763 - INFO - Inserting: 15230 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,765 - INFO - Inserting: 15229 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,770 - INFO - Inserting: 15228 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,774 - INFO - Inserting: 15227 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,776 - INFO - Inserting: 15226 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,779 - INFO - Inserting: 15225 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,782 - INFO - Inserting: 15224 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,786 - INFO - Inserting: 15223 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,789 - INFO - Inserting: 15222 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,792 - INFO - Inserting: 15221 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,795 - INFO - Inserting: 15220 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,797 - INFO - Inserting: 15219 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,800 - INFO - Inserting: 15218 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,805 - INFO - Inserting: 15217 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,808 - INFO - Inserting: 15216 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,811 - INFO - Inserting: 15215 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,814 - INFO - Inserting: 15214 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,816 - INFO - Inserting: 15213 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,821 - INFO - Inserting: 15212 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,824 - INFO - Inserting: 15211 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,827 - INFO - Inserting: 15210 - 2025-02-01 06:06:33+00:00
+2025-02-02 01:49:15,829 - INFO - Inserting: 15209 - 2025-02-01 06:06:32+00:00
+2025-02-02 01:49:15,836 - INFO - Inserting: 15208 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,838 - INFO - Inserting: 15207 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,841 - INFO - Inserting: 15206 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,844 - INFO - Inserting: 15205 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,847 - INFO - Inserting: 15204 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,849 - INFO - Inserting: 15203 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,854 - INFO - Inserting: 15202 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,857 - INFO - Inserting: 15201 - 2025-01-31 12:40:44+00:00
+2025-02-02 01:49:15,859 - INFO - Inserting: 15200 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,862 - INFO - Inserting: 15199 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,864 - INFO - Inserting: 15198 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,868 - INFO - Inserting: 15197 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,872 - INFO - Inserting: 15196 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,875 - INFO - Inserting: 15195 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,877 - INFO - Inserting: 15194 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,881 - INFO - Inserting: 15193 - 2025-01-31 05:30:28+00:00
+2025-02-02 01:49:15,885 - INFO - Inserting: 15192 - 2025-01-30 14:11:12+00:00
+2025-02-02 01:49:15,892 - INFO - Inserting: 15191 - 2025-01-30 14:11:11+00:00
+2025-02-02 01:49:15,895 - INFO - Inserting: 15190 - 2025-01-30 14:11:11+00:00
+2025-02-02 01:49:15,900 - INFO - Inserting: 15189 - 2025-01-30 14:11:11+00:00
+2025-02-02 01:49:15,907 - INFO - Inserting: 15188 - 2025-01-30 13:04:17+00:00
+2025-02-02 01:49:15,910 - INFO - Inserting: 15187 - 2025-01-30 13:04:01+00:00
+2025-02-02 01:49:15,919 - INFO - Inserting: 15186 - 2025-01-30 09:07:32+00:00
+2025-02-02 01:49:15,921 - INFO - Inserting: 15185 - 2025-01-30 09:07:32+00:00
+2025-02-02 01:49:15,928 - INFO - Inserting: 15184 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,934 - INFO - Inserting: 15183 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,940 - INFO - Inserting: 15182 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,943 - INFO - Inserting: 15181 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,946 - INFO - Inserting: 15180 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,950 - INFO - Inserting: 15179 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,953 - INFO - Inserting: 15178 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,956 - INFO - Inserting: 15177 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,959 - INFO - Inserting: 15176 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,962 - INFO - Inserting: 15175 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,965 - INFO - Inserting: 15174 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,968 - INFO - Inserting: 15173 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,971 - INFO - Inserting: 15172 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,974 - INFO - Inserting: 15171 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,976 - INFO - Inserting: 15170 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,979 - INFO - Inserting: 15169 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,982 - INFO - Inserting: 15168 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,986 - INFO - Inserting: 15167 - 2025-01-30 06:32:30+00:00
+2025-02-02 01:49:15,989 - INFO - Inserting: 15166 - 2025-01-30 06:32:29+00:00
+2025-02-02 01:49:15,991 - INFO - Inserting: 15165 - 2025-01-30 06:32:29+00:00
+2025-02-02 01:49:15,994 - INFO - Inserting: 15164 - 2025-01-30 06:32:29+00:00
+2025-02-02 01:49:15,996 - INFO - Inserting: 15163 - 2025-01-30 06:32:29+00:00
+2025-02-02 01:49:15,999 - INFO - Inserting: 15162 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,003 - INFO - Inserting: 15161 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,006 - INFO - Inserting: 15160 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,011 - INFO - Inserting: 15159 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,016 - INFO - Inserting: 15158 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,021 - INFO - Inserting: 15157 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,023 - INFO - Inserting: 15156 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,026 - INFO - Inserting: 15155 - 2025-01-29 13:01:26+00:00
+2025-02-02 01:49:16,029 - INFO - Inserting: 15154 - 2025-01-29 12:59:56+00:00
+2025-02-02 01:49:16,032 - INFO - Inserting: 15153 - 2025-01-29 05:03:04+00:00
+2025-02-02 01:49:16,036 - INFO - Inserting: 15152 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,039 - INFO - Inserting: 15151 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,043 - INFO - Inserting: 15150 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,046 - INFO - Inserting: 15149 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,050 - INFO - Inserting: 15148 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,054 - INFO - Inserting: 15147 - 2025-01-29 05:03:03+00:00
+2025-02-02 01:49:16,058 - INFO - Inserting: 15146 - 2025-01-29 05:02:10+00:00
+2025-02-02 01:49:16,060 - INFO - Inserting: 15145 - 2025-01-28 14:36:31+00:00
+2025-02-02 01:49:16,062 - INFO - Inserting: 15144 - 2025-01-28 14:36:31+00:00
+2025-02-02 01:49:16,065 - INFO - Inserting: 15143 - 2025-01-28 14:36:31+00:00
+2025-02-02 01:49:16,067 - INFO - Inserting: 15142 - 2025-01-28 14:36:31+00:00
+2025-02-02 01:49:16,070 - INFO - Inserting: 1247 - 2025-01-22 09:50:47+00:00
+2025-02-02 01:49:16,072 - INFO - Inserting: 1246 - 2025-01-22 09:50:46+00:00
+2025-02-02 01:49:16,075 - INFO - Inserting: 1245 - 2025-01-22 09:50:46+00:00
+2025-02-02 01:49:16,077 - INFO - Inserting: 1244 - 2025-01-07 03:35:34+00:00
+2025-02-02 01:49:16,079 - INFO - Inserting: 1243 - 2025-01-07 03:35:26+00:00
+2025-02-02 01:49:16,082 - INFO - Inserting: 1242 - 2024-12-16 07:08:46+00:00
+2025-02-02 01:49:16,084 - INFO - Inserting: 1241 - 2024-12-13 06:49:28+00:00
+2025-02-02 01:49:16,087 - INFO - Inserting: 1240 - 2024-12-12 03:02:57+00:00
+2025-02-02 01:49:16,090 - INFO - Inserting: 1239 - 2024-12-11 15:11:40+00:00
+2025-02-02 01:49:16,093 - INFO - Inserting: 1238 - 2024-12-10 09:39:25+00:00
+2025-02-02 01:49:16,095 - INFO - Inserting: 1237 - 2024-12-10 09:39:24+00:00
+2025-02-02 01:49:16,097 - INFO - Inserting: 1236 - 2024-12-10 09:39:24+00:00
+2025-02-02 01:49:16,100 - INFO - Inserting: 1235 - 2024-12-10 09:39:23+00:00
+2025-02-02 01:49:16,103 - INFO - Inserting: 1234 - 2024-12-08 08:17:20+00:00
+2025-02-02 01:49:16,106 - INFO - Inserting: 1233 - 2024-12-07 13:42:13+00:00
+2025-02-02 01:49:16,108 - INFO - Inserting: 1232 - 2024-12-03 10:26:03+00:00
+2025-02-02 01:49:16,110 - INFO - Inserting: 1231 - 2024-12-03 10:26:03+00:00
+2025-02-02 01:49:16,111 - INFO - Inserting: 1230 - 2024-12-01 15:49:16+00:00
+2025-02-02 01:49:16,116 - INFO - Inserting: 1229 - 2024-12-01 15:49:15+00:00
+2025-02-02 01:49:16,120 - INFO - Inserting: 1228 - 2024-12-01 15:49:15+00:00
+2025-02-02 01:49:16,123 - INFO - Inserting: 1227 - 2024-12-01 15:49:15+00:00
+2025-02-02 01:49:16,124 - INFO - Inserting: 1226 - 2024-12-01 15:49:14+00:00
+2025-02-02 01:49:16,127 - INFO - Inserting: 1225 - 2024-11-30 06:57:54+00:00
+2025-02-02 01:49:16,129 - INFO - Inserting: 1224 - 2024-11-30 06:57:53+00:00
+2025-02-02 01:49:16,133 - INFO - Inserting: 1223 - 2024-11-30 06:57:53+00:00
+2025-02-02 01:49:16,137 - INFO - Inserting: 1222 - 2024-11-30 06:57:52+00:00
+2025-02-02 01:49:16,140 - INFO - Inserting: 1221 - 2024-11-26 04:28:12+00:00
+2025-02-02 01:49:16,143 - INFO - Inserting: 1220 - 2024-11-24 04:55:57+00:00
+2025-02-02 01:49:16,145 - INFO - Inserting: 1219 - 2024-11-24 04:55:48+00:00
+2025-02-02 01:49:16,151 - INFO - Inserting: 1218 - 2024-11-24 04:55:48+00:00
+2025-02-02 01:49:16,155 - INFO - Inserting: 1217 - 2024-11-24 04:55:47+00:00
+2025-02-02 01:49:16,157 - INFO - Inserting: 1216 - 2024-11-24 04:55:47+00:00
+2025-02-02 01:49:16,159 - INFO - Inserting: 1215 - 2024-11-24 04:55:46+00:00
+2025-02-02 01:49:16,162 - INFO - Inserting: 1214 - 2024-11-14 04:50:53+00:00
+2025-02-02 01:49:16,166 - INFO - Inserting: 1213 - 2024-11-14 04:50:53+00:00
+2025-02-02 01:49:16,169 - INFO - Inserting: 1212 - 2024-11-14 04:50:52+00:00
+2025-02-02 01:49:16,171 - INFO - Inserting: 1211 - 2024-11-14 04:50:52+00:00
+2025-02-02 01:49:16,173 - INFO - Inserting: 1210 - 2024-11-14 04:50:51+00:00
+2025-02-02 01:49:16,176 - INFO - Inserting: 1209 - 2024-11-14 04:50:51+00:00
+2025-02-02 01:49:16,178 - INFO - Inserting: 1208 - 2024-11-10 16:55:02+00:00
+2025-02-02 01:49:16,180 - INFO - Inserting: 1207 - 2024-11-10 14:59:30+00:00
+2025-02-02 01:49:16,183 - INFO - Inserting: 1206 - 2024-11-06 06:36:27+00:00
+2025-02-02 01:49:16,186 - INFO - Inserting: 1205 - 2024-11-06 06:36:12+00:00
+2025-02-02 01:49:16,189 - INFO - Inserting: 1204 - 2024-11-06 06:36:12+00:00
+2025-02-02 01:49:16,192 - INFO - Inserting: 1203 - 2024-11-05 09:55:49+00:00
+2025-02-02 01:49:16,195 - INFO - Inserting: 1202 - 2024-10-30 08:21:08+00:00
+2025-02-02 01:49:16,198 - INFO - Inserting: 1201 - 2024-10-30 08:21:01+00:00
+2025-02-02 01:49:16,202 - INFO - Inserting: 1199 - 2024-10-27 17:10:42+00:00
+2025-02-02 01:49:16,205 - INFO - Inserting: 1198 - 2024-10-27 16:54:13+00:00
+2025-02-02 01:49:16,208 - INFO - Inserting: 1197 - 2024-10-27 15:36:41+00:00
+2025-02-02 01:49:16,211 - INFO - Inserting: 1196 - 2024-10-27 15:32:28+00:00
+2025-02-02 01:49:16,214 - INFO - Inserting: 1195 - 2024-10-27 15:05:49+00:00
+2025-02-02 01:49:16,216 - INFO - Inserting: 1194 - 2024-10-27 15:00:03+00:00
+2025-02-02 01:49:16,221 - INFO - Inserting: 1193 - 2024-10-24 04:16:30+00:00
+2025-02-02 01:49:16,225 - INFO - Inserting: 1192 - 2024-10-24 04:16:29+00:00
+2025-02-02 01:49:16,228 - INFO - Inserting: 1191 - 2024-10-23 02:00:16+00:00
+2025-02-02 01:49:16,234 - INFO - Inserting: 1190 - 2024-10-21 04:48:03+00:00
+2025-02-02 01:49:16,244 - INFO - Inserting: 1189 - 2024-10-21 04:48:02+00:00
+2025-02-02 01:49:16,247 - INFO - Inserting: 1188 - 2024-10-21 04:48:02+00:00
+2025-02-02 01:49:16,249 - INFO - Inserting: 1187 - 2024-10-21 04:48:01+00:00
+2025-02-02 01:49:16,252 - INFO - Inserting: 1186 - 2024-10-20 16:11:08+00:00
+2025-02-02 01:49:16,256 - INFO - Inserting: 1185 - 2024-10-20 13:23:41+00:00
+2025-02-02 01:49:16,259 - INFO - Inserting: 1184 - 2024-10-16 18:43:58+00:00
+2025-02-02 01:49:16,263 - INFO - Inserting: 1183 - 2024-10-16 18:43:57+00:00
+2025-02-02 01:49:16,268 - INFO - Inserting: 1182 - 2024-10-16 15:22:55+00:00
+2025-02-02 01:49:16,272 - INFO - Inserting: 1181 - 2024-10-06 16:26:40+00:00
+2025-02-02 01:49:16,276 - INFO - Inserting: 1180 - 2024-10-06 15:03:40+00:00
+2025-02-02 01:49:16,279 - INFO - Inserting: 1179 - 2024-10-06 14:58:28+00:00
+2025-02-02 01:49:16,281 - INFO - Inserting: 1178 - 2024-10-04 13:14:17+00:00
+2025-02-02 01:49:16,284 - INFO - Inserting: 1177 - 2024-10-04 13:14:17+00:00
+2025-02-02 01:49:16,290 - INFO - Inserting: 1176 - 2024-10-04 13:14:16+00:00
+2025-02-02 01:49:16,294 - INFO - Inserting: 1175 - 2024-10-04 13:14:16+00:00
+2025-02-02 01:49:16,297 - INFO - Inserting: 1172 - 2024-10-03 05:09:38+00:00
+2025-02-02 01:49:16,300 - INFO - Inserting: 1171 - 2024-10-03 05:09:38+00:00
+2025-02-02 01:49:16,303 - INFO - Inserting: 1170 - 2024-10-02 10:33:05+00:00
+2025-02-02 01:49:16,308 - INFO - Inserting: 1169 - 2024-10-02 07:04:03+00:00
+2025-02-02 01:49:16,310 - INFO - Inserting: 1168 - 2024-09-25 06:38:30+00:00
+2025-02-02 01:49:16,312 - INFO - Inserting: 1167 - 2024-09-25 06:38:30+00:00
+2025-02-02 01:49:16,314 - INFO - Inserting: 1166 - 2024-09-25 06:38:29+00:00
+2025-02-02 01:49:16,317 - INFO - Inserting: 1165 - 2024-09-25 06:38:29+00:00
+2025-02-02 01:49:16,319 - INFO - Inserting: 1164 - 2024-09-25 06:38:28+00:00
+2025-02-02 01:49:16,322 - INFO - Inserting: 1163 - 2024-09-23 08:09:39+00:00
+2025-02-02 01:49:16,325 - INFO - Inserting: 1162 - 2024-09-23 08:09:39+00:00
+2025-02-02 01:49:16,327 - INFO - Inserting: 1161 - 2024-09-23 08:09:38+00:00
+2025-02-02 01:49:16,329 - INFO - Inserting: 1160 - 2024-09-11 07:46:56+00:00
+2025-02-02 01:49:16,332 - INFO - Inserting: 1159 - 2024-09-04 19:09:47+00:00
+2025-02-02 01:49:16,336 - INFO - Inserting: 1158 - 2024-09-04 19:09:46+00:00
+2025-02-02 01:49:16,339 - INFO - Inserting: 1157 - 2024-08-26 17:29:14+00:00
+2025-02-02 01:49:16,341 - INFO - Inserting: 1156 - 2024-08-21 21:45:26+00:00
+2025-02-02 01:49:16,342 - INFO - Inserting: 1155 - 2024-08-21 10:20:11+00:00
+2025-02-02 01:49:16,344 - INFO - Inserting: 1154 - 2024-08-21 10:20:11+00:00
+2025-02-02 01:49:16,346 - INFO - Inserting: 1153 - 2024-08-21 10:20:10+00:00
+2025-02-02 01:49:16,350 - INFO - Inserting: 1152 - 2024-08-21 10:20:09+00:00
+2025-02-02 01:49:16,352 - INFO - Inserting: 1151 - 2024-08-21 10:20:09+00:00
+2025-02-02 01:49:16,354 - INFO - Inserting: 1150 - 2024-08-19 16:25:15+00:00
+2025-02-02 01:49:16,357 - INFO - Inserting: 1149 - 2024-08-19 16:25:15+00:00
+2025-02-02 01:49:16,359 - INFO - Inserting: 1148 - 2024-08-19 16:24:22+00:00
+2025-02-02 01:49:16,361 - INFO - Inserting: 1147 - 2024-08-19 16:22:35+00:00
+2025-02-02 01:49:16,364 - INFO - Inserting: 1146 - 2024-08-19 16:19:25+00:00
+2025-02-02 01:49:16,369 - INFO - Inserting: 1145 - 2024-08-19 16:19:25+00:00
+2025-02-02 01:49:16,371 - INFO - Inserting: 2609 - 2025-02-01 07:37:50+00:00
+2025-02-02 01:49:16,373 - INFO - Inserting: 2608 - 2025-02-01 07:18:21+00:00
+2025-02-02 01:49:16,380 - INFO - Inserting: 2607 - 2025-01-31 13:45:58+00:00
+2025-02-02 01:49:16,386 - INFO - Inserting: 2606 - 2025-01-31 12:31:56+00:00
+2025-02-02 01:49:16,393 - INFO - Inserting: 2605 - 2025-01-31 11:58:34+00:00
+2025-02-02 01:49:16,399 - INFO - Inserting: 2604 - 2025-01-31 09:01:14+00:00
+2025-02-02 01:49:16,407 - INFO - Inserting: 2603 - 2025-01-30 12:42:18+00:00
+2025-02-02 01:49:16,409 - INFO - Inserting: 2602 - 2025-01-30 12:17:14+00:00
+2025-02-02 01:49:16,418 - INFO - Inserting: 2601 - 2025-01-30 09:57:21+00:00
+2025-02-02 01:49:16,426 - INFO - Inserting: 2600 - 2025-01-29 17:00:02+00:00
+2025-02-02 01:49:16,428 - INFO - Inserting: 2598 - 2025-01-29 12:34:11+00:00
+2025-02-02 01:49:16,432 - INFO - Inserting: 2597 - 2025-01-27 11:01:51+00:00
+2025-02-02 01:49:16,439 - INFO - Inserting: 2596 - 2025-01-26 13:17:46+00:00
+2025-02-02 01:49:16,442 - INFO - Inserting: 2595 - 2025-01-26 13:17:40+00:00
+2025-02-02 01:49:16,446 - INFO - Inserting: 2594 - 2025-01-25 08:37:18+00:00
+2025-02-02 01:49:16,454 - INFO - Inserting: 2593 - 2025-01-24 14:09:14+00:00
+2025-02-02 01:49:16,458 - INFO - Inserting: 2592 - 2025-01-24 08:49:19+00:00
+2025-02-02 01:49:16,463 - INFO - Inserting: 2591 - 2025-01-23 07:31:53+00:00
+2025-02-02 01:49:16,468 - INFO - Inserting: 2590 - 2025-01-22 05:45:11+00:00
+2025-02-02 01:49:16,475 - INFO - Inserting: 2589 - 2025-01-21 08:20:09+00:00
+2025-02-02 01:49:16,478 - INFO - Inserting: 2588 - 2025-01-20 16:48:10+00:00
+2025-02-02 01:49:16,484 - INFO - Inserting: 2587 - 2025-01-20 06:39:24+00:00
+2025-02-02 01:49:16,490 - INFO - Inserting: 2586 - 2025-01-20 06:38:55+00:00
+2025-02-02 01:49:16,495 - INFO - Inserting: 2585 - 2025-01-20 06:38:42+00:00
+2025-02-02 01:49:16,501 - INFO - Inserting: 2584 - 2025-01-19 10:52:45+00:00
+2025-02-02 01:49:16,515 - INFO - Inserting: 2583 - 2025-01-19 10:48:03+00:00
+2025-02-02 01:49:16,521 - INFO - Inserting: 2582 - 2025-01-19 09:59:28+00:00
+2025-02-02 01:49:16,534 - INFO - Inserting: 2581 - 2025-01-19 09:27:42+00:00
+2025-02-02 01:49:16,538 - INFO - Inserting: 2580 - 2025-01-18 12:41:52+00:00
+2025-02-02 01:49:16,541 - INFO - Inserting: 2579 - 2025-01-17 13:12:09+00:00
+2025-02-02 01:49:16,544 - INFO - Inserting: 2578 - 2025-01-16 06:10:26+00:00
+2025-02-02 01:49:16,546 - INFO - Inserting: 2577 - 2025-01-13 06:20:54+00:00
+2025-02-02 01:49:16,551 - INFO - Inserting: 2576 - 2025-01-13 05:50:10+00:00
+2025-02-02 01:49:16,555 - INFO - Inserting: 2575 - 2025-01-12 16:35:19+00:00
+2025-02-02 01:49:16,558 - INFO - Inserting: 2574 - 2025-01-10 08:07:35+00:00
+2025-02-02 01:49:16,560 - INFO - Inserting: 2573 - 2025-01-10 05:58:04+00:00
+2025-02-02 01:49:16,564 - INFO - Inserting: 2571 - 2025-01-10 05:53:11+00:00
+2025-02-02 01:49:16,567 - INFO - Inserting: 2570 - 2025-01-09 16:33:26+00:00
+2025-02-02 01:49:16,571 - INFO - Inserting: 2568 - 2025-01-09 16:05:33+00:00
+2025-02-02 01:49:16,576 - INFO - Inserting: 2567 - 2025-01-08 17:50:22+00:00
+2025-02-02 01:49:16,578 - INFO - Inserting: 2566 - 2025-01-06 15:02:11+00:00
+2025-02-02 01:49:16,581 - INFO - Inserting: 2565 - 2025-01-05 05:06:39+00:00
+2025-02-02 01:49:16,584 - INFO - Inserting: 2564 - 2025-01-03 13:33:09+00:00
+2025-02-02 01:49:16,587 - INFO - Inserting: 2563 - 2025-01-02 05:58:30+00:00
+2025-02-02 01:49:16,596 - INFO - Inserting: 2562 - 2025-01-01 09:06:03+00:00
+2025-02-02 01:49:16,599 - INFO - Inserting: 2559 - 2024-12-31 21:34:28+00:00
+2025-02-02 01:49:16,609 - INFO - Inserting: 2558 - 2024-12-31 10:22:34+00:00
+2025-02-02 01:49:16,615 - INFO - Inserting: 2556 - 2024-12-31 09:47:56+00:00
+2025-02-02 01:49:16,621 - INFO - Inserting: 2555 - 2024-12-31 09:17:37+00:00
+2025-02-02 01:49:16,623 - INFO - Inserting: 2554 - 2024-12-31 09:11:31+00:00
+2025-02-02 01:49:16,626 - INFO - Inserting: 2553 - 2024-12-26 13:09:58+00:00
+2025-02-02 01:49:16,629 - INFO - Inserting: 2552 - 2024-12-26 10:20:47+00:00
+2025-02-02 01:49:16,632 - INFO - Inserting: 2551 - 2024-12-26 08:25:04+00:00
+2025-02-02 01:49:16,634 - INFO - Inserting: 2549 - 2024-12-25 11:55:35+00:00
+2025-02-02 01:49:16,637 - INFO - Inserting: 2545 - 2024-12-24 08:53:28+00:00
+2025-02-02 01:49:16,639 - INFO - Inserting: 2544 - 2024-12-23 12:44:50+00:00
+2025-02-02 01:49:16,643 - INFO - Inserting: 2542 - 2024-12-23 12:25:26+00:00
+2025-02-02 01:49:16,649 - INFO - Inserting: 2541 - 2024-12-23 09:21:42+00:00
+2025-02-02 01:49:16,652 - INFO - Inserting: 2540 - 2024-12-23 09:20:43+00:00
+2025-02-02 01:49:16,657 - INFO - Inserting: 2539 - 2024-12-23 06:11:00+00:00
+2025-02-02 01:49:16,669 - INFO - Inserting: 2538 - 2024-12-21 07:47:34+00:00
+2025-02-02 01:49:16,673 - INFO - Inserting: 2537 - 2024-12-20 06:29:07+00:00
+2025-02-02 01:49:16,680 - INFO - Inserting: 2536 - 2024-12-19 08:44:45+00:00
+2025-02-02 01:49:16,685 - INFO - Inserting: 2535 - 2024-12-18 19:52:29+00:00
+2025-02-02 01:49:16,690 - INFO - Inserting: 2534 - 2024-12-18 10:38:35+00:00
+2025-02-02 01:49:16,694 - INFO - Inserting: 2533 - 2024-12-17 20:15:57+00:00
+2025-02-02 01:49:16,696 - INFO - Inserting: 2532 - 2024-12-17 07:24:52+00:00
+2025-02-02 01:49:16,698 - INFO - Inserting: 2531 - 2024-12-17 06:19:22+00:00
+2025-02-02 01:49:16,701 - INFO - Inserting: 2530 - 2024-12-17 06:14:10+00:00
+2025-02-02 01:49:16,703 - INFO - Inserting: 2529 - 2024-12-14 09:43:06+00:00
+2025-02-02 01:49:16,706 - INFO - Inserting: 2528 - 2024-12-13 12:44:14+00:00
+2025-02-02 01:49:16,713 - INFO - Inserting: 2527 - 2024-12-13 12:05:32+00:00
+2025-02-02 01:49:16,721 - INFO - Inserting: 2526 - 2024-12-13 11:11:34+00:00
+2025-02-02 01:49:16,724 - INFO - Inserting: 2525 - 2024-12-13 11:09:41+00:00
+2025-02-02 01:49:16,738 - INFO - Inserting: 2524 - 2024-12-10 04:59:56+00:00
+2025-02-02 01:49:16,741 - INFO - Inserting: 2523 - 2024-12-09 18:40:09+00:00
+2025-02-02 01:49:16,744 - INFO - Inserting: 2522 - 2024-12-09 15:11:11+00:00
+2025-02-02 01:49:16,752 - INFO - Inserting: 2521 - 2024-12-09 15:11:11+00:00
+2025-02-02 01:49:16,755 - INFO - Inserting: 2520 - 2024-12-09 15:11:11+00:00
+2025-02-02 01:49:16,766 - INFO - Inserting: 2519 - 2024-12-09 07:54:33+00:00
+2025-02-02 01:49:16,775 - INFO - Inserting: 2518 - 2024-12-09 07:05:17+00:00
+2025-02-02 01:49:16,779 - INFO - Inserting: 2517 - 2024-12-08 22:26:14+00:00
+2025-02-02 01:49:16,781 - INFO - Inserting: 2516 - 2024-12-08 19:30:01+00:00
+2025-02-02 01:49:16,785 - INFO - Inserting: 2515 - 2024-12-08 18:07:24+00:00
+2025-02-02 01:49:16,788 - INFO - Inserting: 2514 - 2024-12-08 14:47:59+00:00
+2025-02-02 01:49:16,792 - INFO - Inserting: 2513 - 2024-12-07 04:26:19+00:00
+2025-02-02 01:49:16,794 - INFO - Inserting: 2512 - 2024-12-06 14:55:02+00:00
+2025-02-02 01:49:16,796 - INFO - Inserting: 2511 - 2024-12-06 14:54:50+00:00
+2025-02-02 01:49:16,799 - INFO - Inserting: 2510 - 2024-12-04 10:16:05+00:00
+2025-02-02 01:49:16,801 - INFO - Inserting: 2509 - 2024-12-04 08:47:44+00:00
+2025-02-02 01:49:16,805 - INFO - Inserting: 2507 - 2024-12-04 08:45:41+00:00
+2025-02-02 01:49:16,808 - INFO - Inserting: 2506 - 2024-12-02 08:21:54+00:00
+2025-02-02 01:49:16,810 - INFO - Inserting: 2505 - 2024-12-01 16:13:30+00:00
+2025-02-02 01:49:16,812 - INFO - Inserting: 2503 - 2024-11-29 07:44:13+00:00
+2025-02-02 01:49:16,816 - INFO - Inserting: 2502 - 2024-11-29 07:44:13+00:00
+2025-02-02 01:49:16,819 - INFO - Inserting: 2501 - 2024-11-29 07:44:13+00:00
+2025-02-02 01:49:16,823 - INFO - Inserting: 2500 - 2024-11-28 13:24:29+00:00
+2025-02-02 01:49:16,826 - INFO - Inserting: 2499 - 2024-11-28 09:34:47+00:00
+2025-02-02 01:49:16,828 - INFO - Inserting: 2498 - 2024-11-28 09:32:49+00:00
+2025-02-02 01:49:16,831 - INFO - Inserting: 2496 - 2024-11-28 05:53:04+00:00
+2025-02-02 01:49:16,838 - INFO - ✅ 476 records inserted into PostgreSQL database.
