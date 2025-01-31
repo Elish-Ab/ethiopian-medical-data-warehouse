@@ -5,3 +5,6 @@ scripts/photos/
 *.csv
 *.session*
 *.json
+
+
+logs/
