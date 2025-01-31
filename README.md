@@ -77,9 +77,13 @@ You can also use the Jupyter Notebook for step-by-step execution:
 jupyter notebook notebook/data_cleaning_loading.ipynb
 
 ### 📌 Features
-
-✅ Automated Telegram Data Scraping✅ Data Cleaning & Preprocessing✅ Database Storage for Easy Access✅ Structured Logging & Error Handling✅ Jupyter Notebook for Interactive Exploration
-
+```
+✅ Automated Telegram Data Scraping
+✅ Data Cleaning & Preprocessing
+✅ Database Storage for Easy Access
+✅ Structured Logging & Error Handling
+✅ Jupyter Notebook for Interactive Exploration
+```
 📞 Contact & Support
 
 For any issues, open a GitHub issue or contact the developer. 🚀
