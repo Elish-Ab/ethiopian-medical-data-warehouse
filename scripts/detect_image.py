@@ -5,13 +5,20 @@ from PIL import Image
 import logging
 from sqlalchemy import create_engine, Column, Integer, String, Float, MetaData, Table
 from sqlalchemy.orm import sessionmaker
-
+from dotenv import load_dotenv
 # Configure logging
 logging.basicConfig(filename='detection.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
+load_dotenv('.env')
+# Load environment variables
+DB_HOST = os.getenv("DB_HOST")
+DB_NAME = os.getenv("DB_NAME")
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_PORT = os.getenv("DB_PORT")
 # Database setup
-DB_URL = 'postgresql://postgres:elish@localhost:5432/telegram_data_db'
+DB_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 engine = create_engine(DB_URL)
 metadata = MetaData()
 
