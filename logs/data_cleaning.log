@@ -1146,3 +1146,28 @@
 2025-02-02 01:49:16,828 - INFO - Inserting: 2498 - 2024-11-28 09:32:49+00:00
 2025-02-02 01:49:16,831 - INFO - Inserting: 2496 - 2024-11-28 05:53:04+00:00
 2025-02-02 01:49:16,838 - INFO - ✅ 476 records inserted into PostgreSQL database.
+2025-02-04 09:05:38,446 - INFO - ✅ CSV file '../scripts/DoctorsET_data.csv' loaded successfully.
+2025-02-04 09:05:38,470 - INFO - ✅ CSV file '../scripts/EAHCI_data.csv' loaded successfully.
+2025-02-04 09:05:38,486 - INFO - ✅ CSV file '../scripts/lobelia4cosmetics_data.csv' loaded successfully.
+2025-02-04 09:05:38,494 - INFO - ✅ CSV file '../scripts/yetenaweg_data.csv' loaded successfully.
+2025-02-04 09:05:38,501 - INFO - ✅ CSV file '../scripts/CheMed123_data.csv' loaded successfully.
+2025-02-04 09:05:39,644 - INFO - ✅ Duplicates removed from dataset.
+2025-02-04 09:05:39,716 - INFO - ✅ Date column formatted to datetime.
+2025-02-04 09:05:39,759 - INFO - ✅ Missing values filled.
+2025-02-04 09:05:39,820 - INFO - ✅ Text columns standardized.
+2025-02-04 09:05:39,876 - INFO - ✅ Emojis extracted and stored in 'emoji_used' column.
+2025-02-04 09:05:39,963 - INFO - ✅ YouTube links extracted and stored in 'youtube_links' column.
+2025-02-04 09:05:39,969 - INFO - ✅ Data cleaning completed successfully.
+2025-02-04 09:05:41,783 - INFO - ✅ Cleaned data saved successfully to '../data/cleaned_telegram_data.csv'.
+2025-02-04 09:05:58,282 - INFO - ✅ Table 'telegram_messages' created successfully.
+2025-02-04 09:06:01,745 - INFO - Inserting: 864 - 2023-12-18 17:04:02+00:00
+2025-02-04 09:06:01,753 - ERROR - ❌ Error inserting data: (psycopg2.errors.InvalidColumnReference) there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+[SQL: 
+        INSERT INTO telegram_messages 
+        (channel_title, channel_username, message_id, message, message_date, media_path, emoji_used, youtube_links) 
+        VALUES (%(channel_title)s, %(channel_username)s, %(message_id)s, %(message)s, %(message_date)s, %(media_path)s, %(emoji_used)s, %(youtube_links)s)
+        ON CONFLICT (message_id) DO NOTHING;
+        ]
+[parameters: {'channel_title': 'Doctors Ethiopia', 'channel_username': '@DoctorsET', 'message_id': 864, 'message': 'በቀን አንዴ ብቻ የሚባለው የቢዝነስ አማካሪ  በ 10,000 ብር ብቻ የተጀመረ ቢዝነስ እስከ ሚሊየኖች ያየገው የፕራግማ ኢንቨስትመንት መስራች መርድ ብስራት  ብላክ ማርኬት ዋጋ ማነው ሚተምነው ? ኢትዮጵያ ውስጥ ቢዝነስ ለመጀመር ጥሩ ሰአት ነው ወይ ?? 3 ቢዝነስ ስንጀምር የምንሰራው ስህተቶች ! አሁኑኑ ይመልከተቱ', 'message_date': '2023-12-18 17:04:02+00:00', 'media_path': 'photos/@DoctorsET_864.jpg', 'emoji_used': '👈👈👇👇', 'youtube_links': 'https://youtu.be/5DBoEm-8kmA?si=LDLuEecNfULJVDzL, https://youtu.be/5DBoEm-8kmA?si=LDLuEecNfULJVDzL'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
