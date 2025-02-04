@@ -37,6 +37,11 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install telethon
+      - name: Debug Environment Variables
+        run: |
+          echo "API_ID is set: ${API_ID:+yes}"
+          echo "API_HASH is set: ${API_HASH:+yes}"
+
 
       - name: Set Environment Variables for Telethon
         run: |
