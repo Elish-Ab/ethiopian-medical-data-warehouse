@@ -23,7 +23,6 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-
   data_scraping:
     needs: setup
     runs-on: ubuntu-latest
@@ -59,10 +58,10 @@ jobs:
           pip install dbt-core dbt-postgres
           dbt deps
 
-      - name: Run Data Cleaning & Transformation
+      - name: Run DBT Models (Data Cleaning & Transformation)
         run: |
-          dbt run
-
+          dbt run --models telegram_project.my_first_dbt_model telegram_project.my_second_dbt_model telegram_project.telegram_messages
+  
       - name: Upload Cleaned Data
         uses: actions/upload-artifact@v4
         with:
