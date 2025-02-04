@@ -1,0 +1,14 @@
+name: 'telegram_project'
+version: '1.0'
+
+profile: 'telegram_project'  
+
+models:
+  telegram_project:
+    +schema: public  
+    telegram_messages:
+      materialized: table
+    my_first_dbt_model:
+      materialized: view
+    my_second_dbt_model:
+      materialized: view

@@ -1,0 +1,5 @@
+photos/
+*.mp4
+*.csv
+*.session*
+*.json

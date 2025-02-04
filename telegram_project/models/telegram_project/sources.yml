@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: raw_telegram  # Source name
+    database: raw_telegram  # Database name (make sure this is correct)
+    schema: public  # Schema name (should be 'public' if your table is in this schema)
+    tables:
+      - name: telegram_messages  # Table name
+        description: "Table containing messages scraped from Telegram channels."

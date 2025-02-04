@@ -14,8 +14,9 @@ logging.basicConfig(
 
 # Load environment variables once
 load_dotenv('.env')
-api_id = os.getenv('TG_API_ID')
-api_hash = os.getenv('TG_API_HASH')
+
+api_id = os.getenv('API_ID')
+api_hash = os.getenv('API_HASH')
 phone = os.getenv('phone')
 
 # Function to get last processed message ID
@@ -86,11 +87,13 @@ async def main():
         with open('scraped_data.csv', 'a', newline='', encoding='utf-8') as file:  # Changed file name
             writer = csv.writer(file)
             writer.writerow(['Channel Title', 'Channel Username', 'ID', 'Message', 'Date', 'Media Path'])
-            
+       
             channels = [
-                '@DoctorsET'  # Existing channel
-                # Additional channel
-                # Add more channels here
+            "@DoctorsET",
+                "@CheMed123",
+                "@lobelia4cosmetics",
+                "@yetenaweg",
+                "@EAHCI",
             ]
             
             for channel in channels:

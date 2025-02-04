@@ -17,28 +17,35 @@ logging.basicConfig(
     ]
 )
 
-# Load environment variables
-load_dotenv("../.env")
-
-DB_HOST = os.getenv("DB_HOST")
-DB_NAME = os.getenv("DB_NAME")
-DB_USER = os.getenv("DB_USER")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
-DB_PORT = os.getenv("DB_PORT")
+# Load the environment variables from the .env file
+load_dotenv('.env')
 
 def get_db_connection():
-    """ Create and return database engine. """
     try:
-        DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-        engine = create_engine(DATABASE_URL)
-        with engine.connect() as connection:
-            connection.execute(text("SELECT 1"))  # Test connection
-        logging.info("✅ Successfully connected to the PostgreSQL database.")
-        return engine
-    except Exception as e:
-        logging.error(f"❌ Database connection failed: {e}")
-        raise
+        # Load environment variables inside the function
+        DB_HOST = os.getenv("DB_HOST")
+        DB_NAME = os.getenv("DB_NAME")
+        DB_USER = os.getenv("DB_USER")
+        DB_PASSWORD = os.getenv("DB_PASSWORD")
+        DB_PORT = os.getenv("DB_PORT")
 
+        # Check if environment variables are loaded correctly
+        if not all([DB_HOST, DB_NAME, DB_USER, DB_PASSWORD, DB_PORT]):
+            raise ValueError("One or more environment variables are missing.")
+
+        # Construct the DATABASE_URL using the environment variables
+        DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+        print(f"Connecting to: {DATABASE_URL}")  # Debug print
+
+        # Establish the connection to the PostgreSQL database
+        engine = create_engine(DATABASE_URL)
+        return engine
+    except ValueError as e:
+        print("ValueError:", e)
+        raise
+    except Exception as e:
+        print("General Error:", e)
+        raise
 
 def create_table(engine):
     """ Create telegram_messages table if it does not exist. """
@@ -100,4 +107,3 @@ def insert_data(engine, cleaned_df):
     except Exception as e:
         logging.error(f"❌ Error inserting data: {e}")
         raise
-
