@@ -1,112 +1,35 @@
-name: Data Pipeline & YOLO Object Detection
+name: Run Telegram Scraper
 
 on:
   push:
     branches:
       - main
-      - Task-*
+  workflow_dispatch:
 
 jobs:
-  setup:
+  scrape:
     runs-on: ubuntu-latest
+    environment: env
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-      
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.12'
-          
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # Install telethon explicitly
-          pip install telethon
-  
-      - name: Run data scraping script
-        env:
-          API_ID: ${{ secrets.API_ID }}
-          API_HASH: ${{ secrets.API_HASH }}
-        run: python scripts/scrape_data.py
-        
-  scrape-data:
-    runs-on: ubuntu-latest
-    environment: env  # Reference the environment here
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Set Environment Variables
-        run: |
-          echo "API_ID=${{ vars.API_ID }}" >> $GITHUB_ENV
-          echo "API_HASH=${{ vars.API_HASH }}" >> $GITHUB_ENV
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
 
-      - name: Debug Environment Variables
-        run: |
-          echo "API_ID: $API_ID"
-          echo "API_HASH: $API_HASH"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Run Scraper
-        run: python scripts/scrape_data.py
+    - name: Export environment variables
+      run: |
+        echo "API_ID=${{ vars.API_ID }}" >> $GITHUB_ENV
+        echo "API_HASH=${{ vars.API_HASH }}" >> $GITHUB_ENV
 
-  data_cleaning:
-    needs: scrape-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Download Scraped Data
-        uses: actions/download-artifact@v4
-        with:
-          name: scraped-data
-          path: data/raw/
-
-      - name: Install dbt and Dependencies
-        run: |
-          pip install dbt-core dbt-postgres
-          dbt deps
-
-      - name: Run DBT Models (Data Cleaning & Transformation)
-        run: |
-          dbt run --models telegram_project.my_first_dbt_model telegram_project.my_second_dbt_model telegram_project.telegram_messages
-  
-      - name: Upload Cleaned Data
-        uses: actions/upload-artifact@v4
-        with:
-          name: cleaned-data
-          path: data/processed/
-
-  yolo_object_detection:
-    needs: data_cleaning
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Download Cleaned Data
-        uses: actions/download-artifact@v4
-        with:
-          name: cleaned-data
-          path: data/processed/
-
-      - name: Install YOLO Dependencies
-        run: |
-          pip install torch torchvision
-          pip install ultralytics
-
-      - name: Train YOLO Model
-        run: |
-          python scripts/train_yolo.py
-
-      - name: Run Object Detection
-        run: |
-          python scripts/detect_objects.py
-
-      - name: Upload YOLO Model & Results
-        uses: actions/upload-artifact@v4
-        with:
-          name: yolo-results
-          path: results/
+    - name: Run Telegram scraper
+      run: |
+        python scripts/scrape_data.py
