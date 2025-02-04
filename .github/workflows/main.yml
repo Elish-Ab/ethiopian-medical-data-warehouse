@@ -39,14 +39,13 @@ jobs:
           pip install telethon
       - name: Debug Environment Variables
         run: |
-          echo "API_ID is set: ${API_ID:+yes}"
-          echo "API_HASH is set: ${API_HASH:+yes}"
-
-
-      - name: Set Environment Variables for Telethon
+          echo "API_ID: $API_ID"
+          echo "API_HASH: $API_HASH"
+      - name: Set Environment Variables
         run: |
           echo "API_ID=${{ secrets.API_ID }}" >> $GITHUB_ENV
           echo "API_HASH=${{ secrets.API_HASH }}" >> $GITHUB_ENV
+
 
       - name: Run Data Scraping
         run: |
