@@ -87,11 +87,13 @@ async def main():
         with open('scraped_data.csv', 'a', newline='', encoding='utf-8') as file:  # Changed file name
             writer = csv.writer(file)
             writer.writerow(['Channel Title', 'Channel Username', 'ID', 'Message', 'Date', 'Media Path'])
-            
+       
             channels = [
-                '@DoctorsET'  # Existing channel
-                # Additional channel
-                # Add more channels here
+            "@DoctorsET",
+                "@CheMed123",
+                "@lobelia4cosmetics",
+                "@yetenaweg",
+                "@EAHCI",
             ]
             
             for channel in channels:
