@@ -7,10 +7,20 @@ services:
       POSTGRES_PASSWORD: 12345678
       POSTGRES_USER: postgres
       POSTGRES_DB: raw_telegram
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Persistent data for PostgreSQL
+
   app:
     build: .
-    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    command: ["uvicorn", "my_project.main:app", "--host", "0.0.0.0", "--port", "8000"]
     ports:
       - "8000:8000"
     depends_on:
       - db
+    volumes:
+      - .:/app  # Mounting the entire project into the container for easier development
+    environment:
+      DATABASE_URL: "postgresql://postgres:12345678@db:5432/raw_telegram"  # Connection string for DB
+
+volumes:
+  postgres_data:
